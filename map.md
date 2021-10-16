@@ -4,7 +4,7 @@ title: Map
 full-width: true
 ---
 
-<div id="graph-wrapper">
+<div id="graph-wrapper" style="text-align:center">
 
 <svg width="1191pt" height="620pt"
  viewBox="0.00 0.00 1191.07 620.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
