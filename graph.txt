@@ -1,0 +1,26 @@
+digraph G{
+"Pre-algebra (Openstax)"[URL="books/openstax"]
+"Elementary Algebra (Openstax)"[URL="books/openstax2"]
+"Intermediate Algebra (Openstax)"[URL="books/openstax3"]
+"Geometry (Lang)"[URL="books/lang"]
+"Geometry (Moise)"[URL="books/moise"]
+
+"Pre-algebra (Openstax)" -> "Elementary Algebra (Openstax)"
+"Elementary Algebra (Openstax)" -> "Intermediate Algebra (Openstax)"
+"Intermediate Algebra (Openstax)" -> "Geometry (Lang)"
+"Geometry (Lang)" -> "Geometry (Moise)"
+"Proofs (Velleman)" -> "Geometry (Moise)"
+"Geometry (Lang)" -> "Trigonometry (Gelfand)"
+"Trigonometry (Gelfand)" -> "Spherical Trigonometry (Van Brummelen)"
+"Trigonometry (Gelfand)" -> "Basic Mathematics (Lang)"
+"Basic Mathematics (Lang)" -> "Single-variable Calculus (Lang)"
+"Single-variable Calculus (Lang)" -> "Multi-variable Calculus (Lang)"
+"Intermediate Algebra (Openstax)" -> "Proofs (Velleman)"
+"Proofs (Velleman)" -> "Analysis on R (Bloch/Spivak)"
+"Single-variable Calculus (Lang)" -> "Analysis on R (Bloch/Spivak)"
+"Multi-variable Calculus (Lang)" -> "Analysis on R^n (Duistermaat)"
+"Analysis on R (Bloch/Spivak)" -> "Analysis on R^n (Duistermaat)"
+"Linear Algebra (Friedberg)" -> "Analysis on R^n (Duistermaat)"
+"Proofs (Velleman)" -> "Basic Abstract Algebra (Pinter)"
+"Proofs (Velleman)" -> "Linear Algebra (Friedberg)"
+}
