@@ -14,14 +14,20 @@ full-width: true
 <!-- Pre&#45;algebra (Openstax) -->
 <g id="node1" class="node">
 <title>Pre&#45;algebra (Openstax)</title>
+<g id="a_node1"><a xlink:href="books/openstax" xlink:title="Pre&#45;algebra (Openstax)">
 <ellipse fill="none" stroke="black" cx="725.73" cy="-594" rx="118.08" ry="18"/>
 <text text-anchor="middle" x="725.73" y="-590.3" font-family="Times,serif" font-size="14.00">Pre&#45;algebra (Openstax)</text>
+</a>
+</g>
 </g>
 <!-- Elementary Algebra (Openstax) -->
 <g id="node2" class="node">
 <title>Elementary Algebra (Openstax)</title>
+<g id="a_node2"><a xlink:href="books/openstax2" xlink:title="Elementary Algebra (Openstax)">
 <ellipse fill="none" stroke="black" cx="725.73" cy="-522" rx="157.07" ry="18"/>
 <text text-anchor="middle" x="725.73" y="-518.3" font-family="Times,serif" font-size="14.00">Elementary Algebra (Openstax)</text>
+</a>
+</g>
 </g>
 <!-- Pre&#45;algebra (Openstax)&#45;&gt;Elementary Algebra (Openstax) -->
 <g id="edge1" class="edge">
@@ -32,8 +38,11 @@ full-width: true
 <!-- Intermediate Algebra (Openstax) -->
 <g id="node3" class="node">
 <title>Intermediate Algebra (Openstax)</title>
+<g id="a_node3"><a xlink:href="books/openstax3" xlink:title="Intermediate Algebra (Openstax)">
 <ellipse fill="none" stroke="black" cx="725.73" cy="-450" rx="163.57" ry="18"/>
 <text text-anchor="middle" x="725.73" y="-446.3" font-family="Times,serif" font-size="14.00">Intermediate Algebra (Openstax)</text>
+</a>
+</g>
 </g>
 <!-- Elementary Algebra (Openstax)&#45;&gt;Intermediate Algebra (Openstax) -->
 <g id="edge2" class="edge">
@@ -44,8 +53,11 @@ full-width: true
 <!-- Geometry (Lang) -->
 <g id="node4" class="node">
 <title>Geometry (Lang)</title>
+<g id="a_node4"><a xlink:href="books/lang" xlink:title="Geometry (Lang)">
 <ellipse fill="none" stroke="black" cx="625.73" cy="-378" rx="89.08" ry="18"/>
 <text text-anchor="middle" x="625.73" y="-374.3" font-family="Times,serif" font-size="14.00">Geometry (Lang)</text>
+</a>
+</g>
 </g>
 <!-- Intermediate Algebra (Openstax)&#45;&gt;Geometry (Lang) -->
 <g id="edge3" class="edge">
@@ -68,8 +80,11 @@ full-width: true
 <!-- Geometry (Moise) -->
 <g id="node5" class="node">
 <title>Geometry (Moise)</title>
+<g id="a_node5"><a xlink:href="books/moise" xlink:title="Geometry (Moise)">
 <ellipse fill="none" stroke="black" cx="684.73" cy="-306" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="684.73" y="-302.3" font-family="Times,serif" font-size="14.00">Geometry (Moise)</text>
+</a>
+</g>
 </g>
 <!-- Geometry (Lang)&#45;&gt;Geometry (Moise) -->
 <g id="edge4" class="edge">
