@@ -4,9 +4,10 @@ title: Map
 full-width: true
 ---
 
-<div id="graph-wrapper imgContainer">
-<svg width="800pt" height="620pt"
- viewBox="0.00 0.00 800.07 620.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<div id="graph-wrapper">
+
+<svg width="1191pt" height="620pt"
+ viewBox="0.00 0.00 1191.07 620.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 616)">
 <title>G</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-616 1187.07,-616 1187.07,4 -4,4"/>
@@ -211,3 +212,4 @@ full-width: true
 </g>
 </svg>
 </div>
+
