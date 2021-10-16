@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Map
+full-width: true
 ---
 
 <div id="graph-wrapper imgContainer">
