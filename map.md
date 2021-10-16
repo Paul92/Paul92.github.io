@@ -3,8 +3,7 @@ layout: page
 title: Map
 ---
 
-<div id="graph-wrapper">
-
+<div id="graph-wrapper imgContainer">
 <svg width="800pt" height="620pt"
  viewBox="0.00 0.00 800.07 620.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 616)">
@@ -211,4 +210,3 @@ title: Map
 </g>
 </svg>
 </div>
-
