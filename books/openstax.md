@@ -3,7 +3,7 @@ layout: page
 title: Openstax
 ---
 
-<img title="a title" alt="Alt text" src="covers/openstax_elementary_algebra.png">
+<img title="a title" alt="Alt text" src="/books/covers/openstax_elementary_algebra.png">
 
 ![Alt text](covers/openstax_elementary_algebra.png "a title")
 
