@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-for i in "/field/AdvancedAbstractAlgebra" "/field/AdvancedAlgebraicGeometry" "/field/AdvancedAnalysis" "/field/BasicAbstractAlgebra" "/field/BasicAlgebraicGeometry" "/field/BasicAnalysis" "/field/Calculus" "/field/CategoryTheory" "/field/DifferentialGeometry" "/field/Foundations" "/field/HighSchoolMath" "/field/LinearAlgebra" "/field/NumberTheory" "/field/Physics" "/field/Proofs" "/field/PureGeometry" "/field/Topology";
+for i in "/field/advancedAbstractAlgebra" "/field/advancedAlgebraicGeometry" "/field/advancedAnalysis" "/field/basicAbstractAlgebra" "/field/basicAlgebraicGeometry" "/field/basicAnalysis" "/field/calculus" "/field/categoryTheory" "/field/differentialGeometry" "/field/foundations" "/field/highSchoolMath" "/field/linearAlgebra" "/field/numberTheory" "/field/physics" "/field/proofs" "/field/pureGeometry" "/field/topology";
 do
     echo "$i"
     fieldname=$(echo "$i" | cut -d'/' -f3)
