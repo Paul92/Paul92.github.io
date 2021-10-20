@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/Physics
+title: Physics
 full-width: true
 ---
 

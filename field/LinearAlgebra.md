@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/LinearAlgebra
+title: LinearAlgebra
 full-width: true
 ---
 

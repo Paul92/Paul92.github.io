@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/Calculus
+title: Calculus
 full-width: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/BasicAnalysis
+title: BasicAnalysis
 full-width: true
 ---
 

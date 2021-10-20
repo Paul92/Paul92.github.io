@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/NumberTheory
+title: NumberTheory
 full-width: true
 ---
 

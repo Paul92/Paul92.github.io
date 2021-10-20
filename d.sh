@@ -8,7 +8,7 @@ do
     echo "$fieldname"
     echo "---
 layout: page
-title: $i
+title: $fieldname
 full-width: true
 ---
 

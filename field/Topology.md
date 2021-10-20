@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/Topology
+title: Topology
 full-width: true
 ---
 

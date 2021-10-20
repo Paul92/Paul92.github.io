@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/AdvancedAnalysis
+title: AdvancedAnalysis
 full-width: true
 ---
 

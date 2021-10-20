@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/HighSchoolMath
+title: HighSchoolMath
 full-width: true
 ---
 

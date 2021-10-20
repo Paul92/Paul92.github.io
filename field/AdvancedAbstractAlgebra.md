@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/AdvancedAbstractAlgebra
+title: AdvancedAbstractAlgebra
 full-width: true
 ---
 

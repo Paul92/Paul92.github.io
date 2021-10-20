@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/CategoryTheory
+title: CategoryTheory
 full-width: true
 ---
 

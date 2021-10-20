@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/BasicAbstractAlgebra
+title: BasicAbstractAlgebra
 full-width: true
 ---
 

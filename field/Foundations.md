@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/Foundations
+title: Foundations
 full-width: true
 ---
 

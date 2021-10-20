@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/AdvancedAlgebraicGeometry
+title: AdvancedAlgebraicGeometry
 full-width: true
 ---
 

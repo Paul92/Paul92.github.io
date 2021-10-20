@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/DifferentialGeometry
+title: DifferentialGeometry
 full-width: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/Proofs
+title: Proofs
 full-width: true
 ---
 

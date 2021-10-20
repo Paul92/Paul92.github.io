@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /field/PureGeometry
+title: PureGeometry
 full-width: true
 ---
 
