@@ -1,5 +1,8 @@
 #Proofs
 digraph G {
+"Intermediate Algebra (Openstax)"[URL="/books/IntermediateAlgebra(Openstax)"]
+"How to Prove it (Velleman)"[URL="/books/HowtoProveit(Velleman)"]
+
 "Intermediate Algebra (Openstax)" [color = "red"] 
 "Intermediate Algebra (Openstax)" -> "How to Prove it (Velleman)"
 }

@@ -1,5 +1,10 @@
 #Topology
 digraph G {
+    "Real Analysis (Carothers)"[URL="/books/RealAnalysis(Carothers)"]
+    "Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
+    "A Book on Abstract algebra (Pinter)"[URL="/books/ABookonAbstractalgebra(Pinter)"]
+    "Algebraic Topology (Rotman)"[URL="/books/AlgebraicTopology(Rotman)"]
+
     "Real Analysis (Carothers)" -> "Topology (Lee/Wilansky/Viro)"
     "A Book on Abstract algebra (Pinter)" -> "Topology (Lee/Wilansky/Viro)"
     "Real Analysis (Carothers)" [color = "red"] 

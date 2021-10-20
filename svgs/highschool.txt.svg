@@ -12,14 +12,20 @@
 <!-- Pre&#45;algebra (Openstax) -->
 <g id="node1" class="node">
 <title>Pre&#45;algebra (Openstax)</title>
+<g id="a_node1"><a xlink:href="/books/Pre-algebra(Openstax)" xlink:title="Pre&#45;algebra (Openstax)">
 <ellipse fill="none" stroke="black" cx="163.79" cy="-378" rx="118.08" ry="18"/>
 <text text-anchor="middle" x="163.79" y="-374.3" font-family="Times,serif" font-size="14.00">Pre&#45;algebra (Openstax)</text>
+</a>
+</g>
 </g>
 <!-- Elementary Algebra (Openstax) -->
 <g id="node2" class="node">
 <title>Elementary Algebra (Openstax)</title>
+<g id="a_node2"><a xlink:href="/books/ElementaryAlgebra(Openstax)" xlink:title="Elementary Algebra (Openstax)">
 <ellipse fill="none" stroke="black" cx="163.79" cy="-306" rx="157.07" ry="18"/>
 <text text-anchor="middle" x="163.79" y="-302.3" font-family="Times,serif" font-size="14.00">Elementary Algebra (Openstax)</text>
+</a>
+</g>
 </g>
 <!-- Pre&#45;algebra (Openstax)&#45;&gt;Elementary Algebra (Openstax) -->
 <g id="edge1" class="edge">
@@ -30,8 +36,11 @@
 <!-- Intermediate Algebra (Openstax) -->
 <g id="node3" class="node">
 <title>Intermediate Algebra (Openstax)</title>
+<g id="a_node3"><a xlink:href="/books/IntermediateAlgebra(Openstax)" xlink:title="Intermediate Algebra (Openstax)">
 <ellipse fill="none" stroke="black" cx="163.79" cy="-234" rx="163.57" ry="18"/>
 <text text-anchor="middle" x="163.79" y="-230.3" font-family="Times,serif" font-size="14.00">Intermediate Algebra (Openstax)</text>
+</a>
+</g>
 </g>
 <!-- Elementary Algebra (Openstax)&#45;&gt;Intermediate Algebra (Openstax) -->
 <g id="edge2" class="edge">
@@ -42,8 +51,11 @@
 <!-- Trigonometry (Gelfand) -->
 <g id="node6" class="node">
 <title>Trigonometry (Gelfand)</title>
+<g id="a_node6"><a xlink:href="/books/Trigonometry(Gelfand)" xlink:title="Trigonometry (Gelfand)">
 <ellipse fill="none" stroke="black" cx="163.79" cy="-162" rx="120.48" ry="18"/>
 <text text-anchor="middle" x="163.79" y="-158.3" font-family="Times,serif" font-size="14.00">Trigonometry (Gelfand)</text>
+</a>
+</g>
 </g>
 <!-- Intermediate Algebra (Openstax)&#45;&gt;Trigonometry (Gelfand) -->
 <g id="edge4" class="edge">
@@ -54,14 +66,20 @@
 <!-- Geometry (Lang) -->
 <g id="node4" class="node">
 <title>Geometry (Lang)</title>
+<g id="a_node4"><a xlink:href="/books/Geometry(Lang)" xlink:title="Geometry (Lang)">
 <ellipse fill="none" stroke="black" cx="163.79" cy="-90" rx="89.08" ry="18"/>
 <text text-anchor="middle" x="163.79" y="-86.3" font-family="Times,serif" font-size="14.00">Geometry (Lang)</text>
+</a>
+</g>
 </g>
 <!-- Basic Mathematics (Lang) -->
 <g id="node5" class="node">
 <title>Basic Mathematics (Lang)</title>
+<g id="a_node5"><a xlink:href="/books/BasicMathematics(Lang)" xlink:title="Basic Mathematics (Lang)">
 <ellipse fill="none" stroke="black" cx="163.79" cy="-18" rx="131.88" ry="18"/>
 <text text-anchor="middle" x="163.79" y="-14.3" font-family="Times,serif" font-size="14.00">Basic Mathematics (Lang)</text>
+</a>
+</g>
 </g>
 <!-- Geometry (Lang)&#45;&gt;Basic Mathematics (Lang) -->
 <g id="edge3" class="edge">

@@ -1,5 +1,16 @@
 #Advanced Algebraic Geometry
 digraph G {
+
+"Algebraic Curves (Kirwan)"[URL="/books/AlgebraicCurves(Kirwan)"]
+"Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]
+"Category Theory (Awodey)"[URL="/books/CategoryTheory(Awodey)"]
+"Complex Analysis 2 (Freitag)"[URL="/books/ComplexAnalysis2(Freitag)"]
+"Complex Analysis (Freitag)"[URL="/books/ComplexAnalysis(Freitag)"]
+"Riemann Surfaces (Miranda)"[URL="/books/RiemannSurfaces(Miranda)"]
+"Scheme Theory (Ueno)"[URL="/books/SchemeTheory(Ueno)"]
+"Sheaf Theory (Tennison)"[URL="/books/SheafTheory(Tennison)"]
+"Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
+
     "Category Theory (Awodey)" [color = "red"] 
     "Topology (Lee/Wilansky/Viro)" [color = "red"]
     "Category Theory (Awodey)" -> "Sheaf Theory (Tennison)"

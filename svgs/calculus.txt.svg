@@ -12,14 +12,20 @@
 <!-- Basic Mathematics (Lang) -->
 <g id="node1" class="node">
 <title>Basic Mathematics (Lang)</title>
+<g id="a_node1"><a xlink:href="/books/BasicMathematics(Lang)" xlink:title="Basic Mathematics (Lang)">
 <ellipse fill="none" stroke="red" cx="268.43" cy="-234" rx="131.88" ry="18"/>
 <text text-anchor="middle" x="268.43" y="-230.3" font-family="Times,serif" font-size="14.00">Basic Mathematics (Lang)</text>
+</a>
+</g>
 </g>
 <!-- First Course in Calculus (Lang) -->
 <g id="node2" class="node">
 <title>First Course in Calculus (Lang)</title>
+<g id="a_node2"><a xlink:href="/books/FirstCourseinCalculus(Lang)" xlink:title="First Course in Calculus (Lang)">
 <ellipse fill="none" stroke="black" cx="268.43" cy="-162" rx="155.17" ry="18"/>
 <text text-anchor="middle" x="268.43" y="-158.3" font-family="Times,serif" font-size="14.00">First Course in Calculus (Lang)</text>
+</a>
+</g>
 </g>
 <!-- Basic Mathematics (Lang)&#45;&gt;First Course in Calculus (Lang) -->
 <g id="edge1" class="edge">
@@ -30,8 +36,11 @@
 <!-- Calculus in Several Variables (Lang) -->
 <g id="node3" class="node">
 <title>Calculus in Several Variables (Lang)</title>
+<g id="a_node3"><a xlink:href="/books/CalculusinSeveralVariables(Lang)" xlink:title="Calculus in Several Variables (Lang)">
 <ellipse fill="none" stroke="black" cx="268.43" cy="-90" rx="178.97" ry="18"/>
 <text text-anchor="middle" x="268.43" y="-86.3" font-family="Times,serif" font-size="14.00">Calculus in Several Variables (Lang)</text>
+</a>
+</g>
 </g>
 <!-- First Course in Calculus (Lang)&#45;&gt;Calculus in Several Variables (Lang) -->
 <g id="edge2" class="edge">
@@ -42,8 +51,11 @@
 <!-- Differential Equations with Historical Notes (Simmons) -->
 <g id="node4" class="node">
 <title>Differential Equations with Historical Notes (Simmons)</title>
+<g id="a_node4"><a xlink:href="/books/DifferentialEquationswithHistoricalNotes(Simmons)" xlink:title="Differential Equations with Historical Notes (Simmons)">
 <ellipse fill="none" stroke="black" cx="268.43" cy="-18" rx="268.35" ry="18"/>
 <text text-anchor="middle" x="268.43" y="-14.3" font-family="Times,serif" font-size="14.00">Differential Equations with Historical Notes (Simmons)</text>
+</a>
+</g>
 </g>
 <!-- Calculus in Several Variables (Lang)&#45;&gt;Differential Equations with Historical Notes (Simmons) -->
 <g id="edge3" class="edge">

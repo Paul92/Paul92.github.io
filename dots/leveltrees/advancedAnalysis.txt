@@ -1,5 +1,16 @@
 #Advanced Analysis
 digraph G {
+
+"Analysis on R (Bloch/Spivak)"[URL="/books/AnalysisonR(BlochSpivak)"]
+"Analysis on R^n (Duistermaat)"[URL="/books/AnalysisonRn(Duistermaat)"]
+"Analysis Sequence of Simon"[URL="/books/AnalysisSequenceofSimon"]
+"Complex Analysis 2 (Freitag)"[URL="/books/ComplexAnalysis2(Freitag)"]
+"Complex Analysis (Freitag)"[URL="/books/ComplexAnalysis(Freitag)"]
+"Introductory Functional Analysis (Kreyszig)"[URL="/books/IntroductoryFunctionalAnalysis(Kreyszig)"]
+"Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+"Measure Theory (Jones/Bartle)"[URL="/books/MeasureTheory(JonesBartle)"]
+"Real Analysis (Carothers)"[URL="/books/RealAnalysis(Carothers)"]
+
 "Linear Algebra (Friedberg)" [color = "red"]
 "Linear Algebra (Friedberg)" -> "Analysis on R^n (Duistermaat)"
 "Linear Algebra (Friedberg)" -> "Real Analysis (Carothers)"

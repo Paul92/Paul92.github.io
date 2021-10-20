@@ -1,4 +1,23 @@
 digraph G {
+
+"Advanced Abstract Algebra"[URL="/field/AdvancedAbstractAlgebra"]
+"Advanced Algebraic Geometry"[URL="/field/AdvancedAlgebraicGeometry"]
+"Advanced Analysis"[URL="/field/AdvancedAnalysis"]
+"Basic Abstract Algebra"[URL="/field/BasicAbstractAlgebra"]
+"Basic Algebraic Geometry"[URL="/field/BasicAlgebraicGeometry"]
+"Basic Analysis"[URL="/field/BasicAnalysis"]
+"Calculus"[URL="Calculus"]
+"Category Theory"[URL="/field/CategoryTheory"]
+"Differential Geometry"[URL="/field/DifferentialGeometry"]
+"Foundations"[URL="Foundations"]
+"High School Math"[URL="/field/HighSchoolMath"]
+"Linear Algebra"[URL="/field/LinearAlgebra"]
+"Number Theory"[URL="/field/NumberTheory"]
+"Physics"[URL="Physics"]
+"Proofs"[URL="Proofs"]
+"Pure Geometry"[URL="/field/PureGeometry"]
+"Topology"[URL="Topology"]
+
     "High School Math" -> "Calculus" 
     "High School Math" -> "Proofs" 
     "Proofs" -> "Linear Algebra" 

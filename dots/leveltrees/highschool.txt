@@ -1,5 +1,12 @@
 #High School Math
 digraph G {
+"Pre-algebra (Openstax)"[URL="/books/Pre-algebra(Openstax)"]
+"Elementary Algebra (Openstax)"[URL="/books/ElementaryAlgebra(Openstax)"]
+"Intermediate Algebra (Openstax)"[URL="/books/IntermediateAlgebra(Openstax)"]
+"Geometry (Lang)"[URL="/books/Geometry(Lang)"]
+"Basic Mathematics (Lang)"[URL="/books/BasicMathematics(Lang)"]
+"Trigonometry (Gelfand)"[URL="/books/Trigonometry(Gelfand)"]
+
 "Pre-algebra (Openstax)" -> "Elementary Algebra (Openstax)"
 "Elementary Algebra (Openstax)" -> "Intermediate Algebra (Openstax)"
 "Geometry (Lang)" -> "Basic Mathematics (Lang)"

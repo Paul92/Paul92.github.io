@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES="leveltrees/*"
+FILES="dots/leveltrees/*"
 for f in $FILES
 do
     filename=$(basename -- $f)

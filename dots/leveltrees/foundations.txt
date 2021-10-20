@@ -1,5 +1,11 @@
 #Foundations
 digraph G {
+    "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
+    "Logical Options (Bell)"[URL="/books/LogicalOptions(Bell)"]
+    "Mathematical Logic (Bell)" [URL="/books/MathematicalLogic(Bell)"]
+    "Set Theory (Hrbacek)"[URL="/books/SetTheory(Hrbacek)"]
+    "Boolean Valued Models and Independence Proofs (Bell)"[URL="/books/BooleanValuedModelsandIndependenceProofs(Bell)"]
+
     "How To Prove It (Velleman)" [color = "red"] 
     "How To Prove It (Velleman)" -> "Logical Options (Bell)"
     "Logical Options (Bell)" -> "Mathematical Logic (Bell)" 

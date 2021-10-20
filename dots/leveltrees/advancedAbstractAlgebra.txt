@@ -1,5 +1,13 @@
 #Advanced Abstract Algebra
 digraph G {
+"Abstract Algebra (Aluffi)"[URL="/books/AbstractAlgebra(Aluffi)"]
+"Abstract Algebra (Dummit)"[URL="/books/AbstractAlgebra(Dummit)"]
+"Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]
+"Category Theory (Awodey)"[URL="/books/CategoryTheory(Awodey)"]
+"Commutative Algebra (Atiyah)"[URL="/books/CommutativeAlgebra(Atiyah)"]
+"Homological Algebra (Rotman)"[URL="/books/HomologicalAlgebra(Rotman)"]
+"Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
+
     "Abstract Algebra (Dummit)" [color = "red"] 
     "Category Theory (Awodey)" [color = "red"] 
     "Abstract Algebra (Dummit)" -> "Abstract Algebra (Aluffi)"

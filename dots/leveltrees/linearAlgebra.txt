@@ -1,5 +1,13 @@
 #Linear Algebra
 digraph G {
+    "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
+    "Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+    "Advanced Linear Algebra (Roman)"[URL="/books/AdvancedLinearAlgebra(Roman)"]
+    "Abstract Algebra (Dummit)"[URL="/books/AbstractAlgebra(Dummit)"]
+    "Set Theory (Hrbacek)"[URL="/books/SetTheory(Hrbacek)"]
+    "Set Theory (Hrbacek)"[URL="/books/SetTheory(Hrbacek)"]
+    "Numerical Linear Algebra (Trefethen)"[URL="/books/NumericalLinearAlgebra(Trefethen)"]
+
     "How To Prove It (Velleman)" [color = "red"]
     "How To Prove It (Velleman)" -> "Linear Algebra (Friedberg)"
     "Linear Algebra (Friedberg)" -> "Advanced Linear Algebra (Roman)"

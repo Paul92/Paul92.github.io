@@ -1,5 +1,10 @@
 #Category Theory
 digraph G {
+    "Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
+    "A Book on Asbtract Algebra (Pinter)"[URL="/books/ABookonAsbtractAlgebra(Pinter)"]
+    "Category Theory (Awodey)"[URL="/books/CategoryTheory(Awodey)"]
+    "Topos Theory (Goldblatt)"[URL="/books/ToposTheory(Goldblatt)"]
+
     "Topology (Lee/Wilansky/Viro)" [color = "red"] 
     "A Book on Asbtract Algebra (Pinter)" [color = "red"]
     "Topology (Lee/Wilansky/Viro)" -> "Category Theory (Awodey)"

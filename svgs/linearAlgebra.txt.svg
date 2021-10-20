@@ -12,14 +12,20 @@
 <!-- How To Prove It (Velleman) -->
 <g id="node1" class="node">
 <title>How To Prove It (Velleman)</title>
+<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)">
 <ellipse fill="none" stroke="red" cx="719.49" cy="-162" rx="137.58" ry="18"/>
 <text text-anchor="middle" x="719.49" y="-158.3" font-family="Times,serif" font-size="14.00">How To Prove It (Velleman)</text>
+</a>
+</g>
 </g>
 <!-- Linear Algebra (Friedberg) -->
 <g id="node2" class="node">
 <title>Linear Algebra (Friedberg)</title>
+<g id="a_node2"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)">
 <ellipse fill="none" stroke="black" cx="719.49" cy="-90" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="719.49" y="-86.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
+</a>
+</g>
 </g>
 <!-- How To Prove It (Velleman)&#45;&gt;Linear Algebra (Friedberg) -->
 <g id="edge1" class="edge">
@@ -30,8 +36,11 @@
 <!-- Advanced Linear Algebra (Roman) -->
 <g id="node3" class="node">
 <title>Advanced Linear Algebra (Roman)</title>
+<g id="a_node3"><a xlink:href="/books/AdvancedLinearAlgebra(Roman)" xlink:title="Advanced Linear Algebra (Roman)">
 <ellipse fill="none" stroke="black" cx="373.49" cy="-18" rx="168.97" ry="18"/>
 <text text-anchor="middle" x="373.49" y="-14.3" font-family="Times,serif" font-size="14.00">Advanced Linear Algebra (Roman)</text>
+</a>
+</g>
 </g>
 <!-- Linear Algebra (Friedberg)&#45;&gt;Advanced Linear Algebra (Roman) -->
 <g id="edge2" class="edge">
@@ -42,8 +51,11 @@
 <!-- Numerical Linear Algebra (Trefethen) -->
 <g id="node6" class="node">
 <title>Numerical Linear Algebra (Trefethen)</title>
+<g id="a_node6"><a xlink:href="/books/NumericalLinearAlgebra(Trefethen)" xlink:title="Numerical Linear Algebra (Trefethen)">
 <ellipse fill="none" stroke="black" cx="746.49" cy="-18" rx="185.77" ry="18"/>
 <text text-anchor="middle" x="746.49" y="-14.3" font-family="Times,serif" font-size="14.00">Numerical Linear Algebra (Trefethen)</text>
+</a>
+</g>
 </g>
 <!-- Linear Algebra (Friedberg)&#45;&gt;Numerical Linear Algebra (Trefethen) -->
 <g id="edge5" class="edge">
@@ -54,8 +66,11 @@
 <!-- Abstract Algebra (Dummit) -->
 <g id="node4" class="node">
 <title>Abstract Algebra (Dummit)</title>
+<g id="a_node4"><a xlink:href="/books/AbstractAlgebra(Dummit)" xlink:title="Abstract Algebra (Dummit)">
 <ellipse fill="none" stroke="red" cx="136.49" cy="-90" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="136.49" y="-86.3" font-family="Times,serif" font-size="14.00">Abstract Algebra (Dummit)</text>
+</a>
+</g>
 </g>
 <!-- Abstract Algebra (Dummit)&#45;&gt;Advanced Linear Algebra (Roman) -->
 <g id="edge3" class="edge">
@@ -66,8 +81,11 @@
 <!-- Set Theory (Hrbacek) -->
 <g id="node5" class="node">
 <title>Set Theory (Hrbacek)</title>
+<g id="a_node5"><a xlink:href="/books/SetTheory(Hrbacek)" xlink:title="Set Theory (Hrbacek)">
 <ellipse fill="none" stroke="red" cx="401.49" cy="-90" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="401.49" y="-86.3" font-family="Times,serif" font-size="14.00">Set Theory (Hrbacek)</text>
+</a>
+</g>
 </g>
 <!-- Set Theory (Hrbacek)&#45;&gt;Advanced Linear Algebra (Roman) -->
 <g id="edge4" class="edge">

@@ -1,5 +1,10 @@
 #Number Theory
 digraph G {
+    "A Book on Abstract Algebra (Pinter)"[URL="/books/ABookonAbstractAlgebra(Pinter)"]
+    "A Gateway to Number Theory (Kendig)" [URL="/books/AGatewaytoNumberTheory(Kendig)"]
+    "Number Theory (Ireland Rosen)"[URL="/books/NumberTheory(IrelandRosen)"]
+    "Cryptography (Silverman)"[URL="/books/Cryptography(Silverman)"]
+
     "A Book on Abstract Algebra (Pinter)" [color = "red"]
     "A Book on Abstract Algebra (Pinter)" -> "A Gateway to Number Theory (Kendig)" 
     "A Gateway to Number Theory (Kendig)" -> "Number Theory (Ireland Rosen)"

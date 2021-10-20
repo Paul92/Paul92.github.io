@@ -1,5 +1,11 @@
 #Differential Geometry
 digraph G {
+    "Analysis on R^n (Duistermaat)"[URL="/books/AnalysisonR^n(Duistermaat)"]
+    "Classical Differential Geometry (Do Carmo/Needham)"[URL="/books/ClassicalDifferentialGeometry(DoCarmoNeedham)"]
+    "Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
+    "Differentiable Manifolds (Lee)"[URL="/books/DifferentiableManifolds(Lee)"]
+    "Riemannian Manifolds (Lee)"[URL="/books/RiemannianManifolds(Lee)"]
+
     "Analysis on R^n (Duistermaat)" [color = "red"] 
     "Analysis on R^n (Duistermaat)" -> "Classical Differential Geometry (Do Carmo/Needham)"
     "Topology (Lee/Wilansky/Viro)" [color = "red"]

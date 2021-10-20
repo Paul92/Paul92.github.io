@@ -12,14 +12,20 @@
 <!-- How To Prove It (Velleman) -->
 <g id="node1" class="node">
 <title>How To Prove It (Velleman)</title>
+<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)">
 <ellipse fill="none" stroke="red" cx="266.48" cy="-234" rx="137.58" ry="18"/>
 <text text-anchor="middle" x="266.48" y="-230.3" font-family="Times,serif" font-size="14.00">How To Prove It (Velleman)</text>
+</a>
+</g>
 </g>
 <!-- Logical Options (Bell) -->
 <g id="node2" class="node">
 <title>Logical Options (Bell)</title>
+<g id="a_node2"><a xlink:href="/books/LogicalOptions(Bell)" xlink:title="Logical Options (Bell)">
 <ellipse fill="none" stroke="black" cx="266.48" cy="-162" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="266.48" y="-158.3" font-family="Times,serif" font-size="14.00">Logical Options (Bell)</text>
+</a>
+</g>
 </g>
 <!-- How To Prove It (Velleman)&#45;&gt;Logical Options (Bell) -->
 <g id="edge1" class="edge">
@@ -30,8 +36,11 @@
 <!-- Mathematical Logic (Bell) -->
 <g id="node3" class="node">
 <title>Mathematical Logic (Bell)</title>
+<g id="a_node3"><a xlink:href="/books/MathematicalLogic(Bell)" xlink:title="Mathematical Logic (Bell)">
 <ellipse fill="none" stroke="black" cx="137.48" cy="-90" rx="129.98" ry="18"/>
 <text text-anchor="middle" x="137.48" y="-86.3" font-family="Times,serif" font-size="14.00">Mathematical Logic (Bell)</text>
+</a>
+</g>
 </g>
 <!-- Logical Options (Bell)&#45;&gt;Mathematical Logic (Bell) -->
 <g id="edge2" class="edge">
@@ -42,8 +51,11 @@
 <!-- Set Theory (Hrbacek) -->
 <g id="node4" class="node">
 <title>Set Theory (Hrbacek)</title>
+<g id="a_node4"><a xlink:href="/books/SetTheory(Hrbacek)" xlink:title="Set Theory (Hrbacek)">
 <ellipse fill="none" stroke="black" cx="395.48" cy="-90" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="395.48" y="-86.3" font-family="Times,serif" font-size="14.00">Set Theory (Hrbacek)</text>
+</a>
+</g>
 </g>
 <!-- Logical Options (Bell)&#45;&gt;Set Theory (Hrbacek) -->
 <g id="edge3" class="edge">
@@ -54,8 +66,11 @@
 <!-- Boolean Valued Models and Independence Proofs (Bell) -->
 <g id="node5" class="node">
 <title>Boolean Valued Models and Independence Proofs (Bell)</title>
+<g id="a_node5"><a xlink:href="/books/BooleanValuedModelsandIndependenceProofs(Bell)" xlink:title="Boolean Valued Models and Independence Proofs (Bell)">
 <ellipse fill="none" stroke="black" cx="266.48" cy="-18" rx="266.45" ry="18"/>
 <text text-anchor="middle" x="266.48" y="-14.3" font-family="Times,serif" font-size="14.00">Boolean Valued Models and Independence Proofs (Bell)</text>
+</a>
+</g>
 </g>
 <!-- Mathematical Logic (Bell)&#45;&gt;Boolean Valued Models and Independence Proofs (Bell) -->
 <g id="edge4" class="edge">

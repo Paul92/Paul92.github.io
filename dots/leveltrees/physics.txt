@@ -1,5 +1,19 @@
 #Physics
 digraph G {
+"A First Course in Calculus (Lang)"[URL="/books/AFirstCourseinCalculus(Lang)"]
+"Calculus on Several Variables (Lang)"[URL="/books/CalculusonSeveralVariables(Lang)"]
+"Classical Mechanics (Taylor/Gregory)"[URL="/books/ClassicalMechanics(TaylorGregory)"]
+"Differential Geometry (Needham)"[URL="/books/DifferentialGeometry(Needham)"]
+"Electrodynamics (Wangsness/Ohanian)"[URL="/books/Electrodynamics(WangsnessOhanian)"]
+"General Relativity (Moore)"[URL="/books/GeneralRelativity(Moore)"]
+"Intro Physics (Moore/Morin)"[URL="/books/IntroPhysics(Moore/Morin)"]
+"Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+"Modern Physics (Taylor)"[URL="/books/ModernPhysics(Taylor)"]
+"Quantum Mechanics (Shankar/McQuarrie)"[URL="/books/QuantumMechanics(ShankarMcQuarrie)"]
+"Sepcial Relativity (Morin)"[URL="/books/SepcialRelativity(Morin)"]
+"Thermal Physics (Reif)"[URL="/books/ThermalPhysics(Reif)"]
+
+
     "A First Course in Calculus (Lang)" [color = "red"] 
     "A First Course in Calculus (Lang)" -> "Intro Physics (Moore/Morin)"
     "Linear Algebra (Friedberg)" [color = "red"]

@@ -1,5 +1,12 @@
 #Basic Analysis
 digraph G {
+
+"How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
+"Analysis on R (Bloch/Spivak)"[URL="/books/AnalysisonR(Bloch/Spivak)"]
+"Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+"Analysis on R^n (Duistermaat)"[URL="/books/AnalysisonRn(Duistermaat)"]
+
+
 "How To Prove It (Velleman)" [color = "red"] 
 "How To Prove It (Velleman)" -> "Analysis on R (Bloch/Spivak)" 
 "Analysis on R (Bloch/Spivak)" -> "Analysis on R^n (Duistermaat)" 

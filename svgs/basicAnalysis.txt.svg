@@ -12,14 +12,20 @@
 <!-- How To Prove It (Velleman) -->
 <g id="node1" class="node">
 <title>How To Prove It (Velleman)</title>
+<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)">
 <ellipse fill="none" stroke="red" cx="142.99" cy="-162" rx="137.58" ry="18"/>
 <text text-anchor="middle" x="142.99" y="-158.3" font-family="Times,serif" font-size="14.00">How To Prove It (Velleman)</text>
+</a>
+</g>
 </g>
 <!-- Analysis on R (Bloch/Spivak) -->
 <g id="node2" class="node">
 <title>Analysis on R (Bloch/Spivak)</title>
+<g id="a_node2"><a xlink:href="/books/AnalysisonR(Bloch/Spivak)" xlink:title="Analysis on R (Bloch/Spivak)">
 <ellipse fill="none" stroke="black" cx="142.99" cy="-90" rx="142.97" ry="18"/>
 <text text-anchor="middle" x="142.99" y="-86.3" font-family="Times,serif" font-size="14.00">Analysis on R (Bloch/Spivak)</text>
+</a>
+</g>
 </g>
 <!-- How To Prove It (Velleman)&#45;&gt;Analysis on R (Bloch/Spivak) -->
 <g id="edge1" class="edge">
@@ -28,10 +34,13 @@
 <polygon fill="black" stroke="black" points="146.49,-118.1 142.99,-108.1 139.49,-118.1 146.49,-118.1"/>
 </g>
 <!-- Analysis on R^n (Duistermaat) -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>Analysis on R^n (Duistermaat)</title>
+<g id="a_node4"><a xlink:href="/books/AnalysisonRn(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)">
 <ellipse fill="none" stroke="black" cx="290.99" cy="-18" rx="154.87" ry="18"/>
 <text text-anchor="middle" x="290.99" y="-14.3" font-family="Times,serif" font-size="14.00">Analysis on R^n (Duistermaat)</text>
+</a>
+</g>
 </g>
 <!-- Analysis on R (Bloch/Spivak)&#45;&gt;Analysis on R^n (Duistermaat) -->
 <g id="edge2" class="edge">
@@ -40,10 +49,13 @@
 <polygon fill="black" stroke="black" points="248.37,-43.03 255.91,-35.59 245.37,-36.7 248.37,-43.03"/>
 </g>
 <!-- Linear Algebra (Friedberg) -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Linear Algebra (Friedberg)</title>
+<g id="a_node3"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)">
 <ellipse fill="none" stroke="red" cx="439.99" cy="-90" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="439.99" y="-86.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
+</a>
+</g>
 </g>
 <!-- Linear Algebra (Friedberg)&#45;&gt;Analysis on R^n (Duistermaat) -->
 <g id="edge3" class="edge">
