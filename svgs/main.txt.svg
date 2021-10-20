@@ -12,7 +12,7 @@
 <!-- Advanced Abstract Algebra -->
 <g id="node1" class="node">
 <title>Advanced Abstract Algebra</title>
-<g id="a_node1"><a xlink:href="/field/AdvancedAbstractAlgebra" xlink:title="Advanced Abstract Algebra">
+<g id="a_node1"><a xlink:href="/field/AdvancedAbstractAlgebra" xlink:title="Advanced Abstract Algebra" target="_parent">
 <ellipse fill="none" stroke="black" cx="540.84" cy="-234" rx="137.28" ry="18"/>
 <text text-anchor="middle" x="540.84" y="-230.3" font-family="Times,serif" font-size="14.00">Advanced Abstract Algebra</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Advanced Algebraic Geometry -->
 <g id="node2" class="node">
 <title>Advanced Algebraic Geometry</title>
-<g id="a_node2"><a xlink:href="/field/AdvancedAlgebraicGeometry" xlink:title="Advanced Algebraic Geometry">
+<g id="a_node2"><a xlink:href="/field/AdvancedAlgebraicGeometry" xlink:title="Advanced Algebraic Geometry" target="_parent">
 <ellipse fill="none" stroke="black" cx="457.84" cy="-18" rx="151.37" ry="18"/>
 <text text-anchor="middle" x="457.84" y="-14.3" font-family="Times,serif" font-size="14.00">Advanced Algebraic Geometry</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Advanced Analysis -->
 <g id="node3" class="node">
 <title>Advanced Analysis</title>
-<g id="a_node3"><a xlink:href="/field/AdvancedAnalysis" xlink:title="Advanced Analysis">
+<g id="a_node3"><a xlink:href="/field/AdvancedAnalysis" xlink:title="Advanced Analysis" target="_parent">
 <ellipse fill="none" stroke="black" cx="792.84" cy="-234" rx="96.68" ry="18"/>
 <text text-anchor="middle" x="792.84" y="-230.3" font-family="Times,serif" font-size="14.00">Advanced Analysis</text>
 </a>
@@ -45,7 +45,7 @@
 <!-- Topology -->
 <g id="node17" class="node">
 <title>Topology</title>
-<g id="a_node17"><a xlink:href="Topology" xlink:title="Topology">
+<g id="a_node17"><a xlink:href="Topology" xlink:title="Topology" target="_parent">
 <ellipse fill="none" stroke="black" cx="655.84" cy="-162" rx="52.79" ry="18"/>
 <text text-anchor="middle" x="655.84" y="-158.3" font-family="Times,serif" font-size="14.00">Topology</text>
 </a>
@@ -60,7 +60,7 @@
 <!-- Basic Abstract Algebra -->
 <g id="node4" class="node">
 <title>Basic Abstract Algebra</title>
-<g id="a_node4"><a xlink:href="/field/BasicAbstractAlgebra" xlink:title="Basic Abstract Algebra">
+<g id="a_node4"><a xlink:href="/field/BasicAbstractAlgebra" xlink:title="Basic Abstract Algebra" target="_parent">
 <ellipse fill="none" stroke="black" cx="296.84" cy="-306" rx="116.98" ry="18"/>
 <text text-anchor="middle" x="296.84" y="-302.3" font-family="Times,serif" font-size="14.00">Basic Abstract Algebra</text>
 </a>
@@ -75,7 +75,7 @@
 <!-- Category Theory -->
 <g id="node8" class="node">
 <title>Category Theory</title>
-<g id="a_node8"><a xlink:href="/field/CategoryTheory" xlink:title="Category Theory">
+<g id="a_node8"><a xlink:href="/field/CategoryTheory" xlink:title="Category Theory" target="_parent">
 <ellipse fill="none" stroke="black" cx="399.84" cy="-90" rx="88.28" ry="18"/>
 <text text-anchor="middle" x="399.84" y="-86.3" font-family="Times,serif" font-size="14.00">Category Theory</text>
 </a>
@@ -90,7 +90,7 @@
 <!-- Number Theory -->
 <g id="node13" class="node">
 <title>Number Theory</title>
-<g id="a_node13"><a xlink:href="/field/NumberTheory" xlink:title="Number Theory">
+<g id="a_node13"><a xlink:href="/field/NumberTheory" xlink:title="Number Theory" target="_parent">
 <ellipse fill="none" stroke="black" cx="83.84" cy="-234" rx="83.69" ry="18"/>
 <text text-anchor="middle" x="83.84" y="-230.3" font-family="Times,serif" font-size="14.00">Number Theory</text>
 </a>
@@ -105,7 +105,7 @@
 <!-- Pure Geometry -->
 <g id="node16" class="node">
 <title>Pure Geometry</title>
-<g id="a_node16"><a xlink:href="/field/PureGeometry" xlink:title="Pure Geometry">
+<g id="a_node16"><a xlink:href="/field/PureGeometry" xlink:title="Pure Geometry" target="_parent">
 <ellipse fill="none" stroke="black" cx="266.84" cy="-234" rx="81.49" ry="18"/>
 <text text-anchor="middle" x="266.84" y="-230.3" font-family="Times,serif" font-size="14.00">Pure Geometry</text>
 </a>
@@ -120,7 +120,7 @@
 <!-- Basic Algebraic Geometry -->
 <g id="node5" class="node">
 <title>Basic Algebraic Geometry</title>
-<g id="a_node5"><a xlink:href="/field/BasicAlgebraicGeometry" xlink:title="Basic Algebraic Geometry">
+<g id="a_node5"><a xlink:href="/field/BasicAlgebraicGeometry" xlink:title="Basic Algebraic Geometry" target="_parent">
 <ellipse fill="none" stroke="black" cx="216.84" cy="-162" rx="131.08" ry="18"/>
 <text text-anchor="middle" x="216.84" y="-158.3" font-family="Times,serif" font-size="14.00">Basic Algebraic Geometry</text>
 </a>
@@ -135,7 +135,7 @@
 <!-- Basic Analysis -->
 <g id="node6" class="node">
 <title>Basic Analysis</title>
-<g id="a_node6"><a xlink:href="/field/BasicAnalysis" xlink:title="Basic Analysis">
+<g id="a_node6"><a xlink:href="/field/BasicAnalysis" xlink:title="Basic Analysis" target="_parent">
 <ellipse fill="none" stroke="black" cx="838.84" cy="-306" rx="77.19" ry="18"/>
 <text text-anchor="middle" x="838.84" y="-302.3" font-family="Times,serif" font-size="14.00">Basic Analysis</text>
 </a>
@@ -150,7 +150,7 @@
 <!-- Calculus -->
 <g id="node7" class="node">
 <title>Calculus</title>
-<g id="a_node7"><a xlink:href="Calculus" xlink:title="Calculus">
+<g id="a_node7"><a xlink:href="Calculus" xlink:title="Calculus" target="_parent">
 <ellipse fill="none" stroke="black" cx="838.84" cy="-378" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="838.84" y="-374.3" font-family="Times,serif" font-size="14.00">Calculus</text>
 </a>
@@ -165,7 +165,7 @@
 <!-- Physics -->
 <g id="node14" class="node">
 <title>Physics</title>
-<g id="a_node14"><a xlink:href="Physics" xlink:title="Physics">
+<g id="a_node14"><a xlink:href="Physics" xlink:title="Physics" target="_parent">
 <ellipse fill="none" stroke="black" cx="979.84" cy="-306" rx="46.29" ry="18"/>
 <text text-anchor="middle" x="979.84" y="-302.3" font-family="Times,serif" font-size="14.00">Physics</text>
 </a>
@@ -186,7 +186,7 @@
 <!-- Differential Geometry -->
 <g id="node9" class="node">
 <title>Differential Geometry</title>
-<g id="a_node9"><a xlink:href="/field/DifferentialGeometry" xlink:title="Differential Geometry">
+<g id="a_node9"><a xlink:href="/field/DifferentialGeometry" xlink:title="Differential Geometry" target="_parent">
 <ellipse fill="none" stroke="black" cx="655.84" cy="-90" rx="112.38" ry="18"/>
 <text text-anchor="middle" x="655.84" y="-86.3" font-family="Times,serif" font-size="14.00">Differential Geometry</text>
 </a>
@@ -201,7 +201,7 @@
 <!-- Foundations -->
 <g id="node10" class="node">
 <title>Foundations</title>
-<g id="a_node10"><a xlink:href="Foundations" xlink:title="Foundations">
+<g id="a_node10"><a xlink:href="Foundations" xlink:title="Foundations" target="_parent">
 <ellipse fill="none" stroke="black" cx="675.84" cy="-306" rx="67.69" ry="18"/>
 <text text-anchor="middle" x="675.84" y="-302.3" font-family="Times,serif" font-size="14.00">Foundations</text>
 </a>
@@ -210,7 +210,7 @@
 <!-- High School Math -->
 <g id="node11" class="node">
 <title>High School Math</title>
-<g id="a_node11"><a xlink:href="/field/HighSchoolMath" xlink:title="High School Math">
+<g id="a_node11"><a xlink:href="/field/HighSchoolMath" xlink:title="High School Math" target="_parent">
 <ellipse fill="none" stroke="black" cx="756.84" cy="-450" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="756.84" y="-446.3" font-family="Times,serif" font-size="14.00">High School Math</text>
 </a>
@@ -225,7 +225,7 @@
 <!-- Proofs -->
 <g id="node15" class="node">
 <title>Proofs</title>
-<g id="a_node15"><a xlink:href="Proofs" xlink:title="Proofs">
+<g id="a_node15"><a xlink:href="Proofs" xlink:title="Proofs" target="_parent">
 <ellipse fill="none" stroke="black" cx="675.84" cy="-378" rx="40.09" ry="18"/>
 <text text-anchor="middle" x="675.84" y="-374.3" font-family="Times,serif" font-size="14.00">Proofs</text>
 </a>
@@ -240,7 +240,7 @@
 <!-- Linear Algebra -->
 <g id="node12" class="node">
 <title>Linear Algebra</title>
-<g id="a_node12"><a xlink:href="/field/LinearAlgebra" xlink:title="Linear Algebra">
+<g id="a_node12"><a xlink:href="/field/LinearAlgebra" xlink:title="Linear Algebra" target="_parent">
 <ellipse fill="none" stroke="black" cx="510.84" cy="-306" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="510.84" y="-302.3" font-family="Times,serif" font-size="14.00">Linear Algebra</text>
 </a>

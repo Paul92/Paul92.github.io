@@ -1,5 +1,5 @@
 digraph G {
-
+node [target=_parent]
 "Advanced Abstract Algebra"[URL="/field/AdvancedAbstractAlgebra"]
 "Advanced Algebraic Geometry"[URL="/field/AdvancedAlgebraicGeometry"]
 "Advanced Analysis"[URL="/field/AdvancedAnalysis"]
