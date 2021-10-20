@@ -4,4 +4,4 @@ title: Map
 full-width: true
 ---
 
-<img src="/svgs/main.txt.svg?sanitize=true">
+<object type="image/svg+xml" data="/svgs/main.txt.svg"> </object>
