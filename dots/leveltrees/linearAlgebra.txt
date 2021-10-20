@@ -1,5 +1,6 @@
 #Linear Algebra
 digraph G {
+node [target=_parent]
     "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
     "Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
     "Advanced Linear Algebra (Roman)"[URL="/books/AdvancedLinearAlgebra(Roman)"]

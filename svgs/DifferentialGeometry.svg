@@ -12,7 +12,7 @@
 <!-- Analysis on R^n (Duistermaat) -->
 <g id="node1" class="node">
 <title>Analysis on R^n (Duistermaat)</title>
-<g id="a_node1"><a xlink:href="/books/AnalysisonR^n(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)">
+<g id="a_node1"><a xlink:href="/books/AnalysisonR^n(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)" target="_parent">
 <ellipse fill="none" stroke="red" cx="259.98" cy="-234" rx="154.87" ry="18"/>
 <text text-anchor="middle" x="259.98" y="-230.3" font-family="Times,serif" font-size="14.00">Analysis on R^n (Duistermaat)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Classical Differential Geometry (Do Carmo/Needham) -->
 <g id="node2" class="node">
 <title>Classical Differential Geometry (Do Carmo/Needham)</title>
-<g id="a_node2"><a xlink:href="/books/ClassicalDifferentialGeometry(DoCarmoNeedham)" xlink:title="Classical Differential Geometry (Do Carmo/Needham)">
+<g id="a_node2"><a xlink:href="/books/ClassicalDifferentialGeometry(DoCarmoNeedham)" xlink:title="Classical Differential Geometry (Do Carmo/Needham)" target="_parent">
 <ellipse fill="none" stroke="black" cx="259.98" cy="-162" rx="259.95" ry="18"/>
 <text text-anchor="middle" x="259.98" y="-158.3" font-family="Times,serif" font-size="14.00">Classical Differential Geometry (Do Carmo/Needham)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Differentiable Manifolds (Lee) -->
 <g id="node4" class="node">
 <title>Differentiable Manifolds (Lee)</title>
-<g id="a_node4"><a xlink:href="/books/DifferentiableManifolds(Lee)" xlink:title="Differentiable Manifolds (Lee)">
+<g id="a_node4"><a xlink:href="/books/DifferentiableManifolds(Lee)" xlink:title="Differentiable Manifolds (Lee)" target="_parent">
 <ellipse fill="none" stroke="black" cx="471.98" cy="-90" rx="150.27" ry="18"/>
 <text text-anchor="middle" x="471.98" y="-86.3" font-family="Times,serif" font-size="14.00">Differentiable Manifolds (Lee)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Topology (Lee/Wilansky/Viro) -->
 <g id="node3" class="node">
 <title>Topology (Lee/Wilansky/Viro)</title>
-<g id="a_node3"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)">
+<g id="a_node3"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
 <ellipse fill="none" stroke="red" cx="683.98" cy="-162" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="683.98" y="-158.3" font-family="Times,serif" font-size="14.00">Topology (Lee/Wilansky/Viro)</text>
 </a>
@@ -66,7 +66,7 @@
 <!-- Riemannian Manifolds (Lee) -->
 <g id="node5" class="node">
 <title>Riemannian Manifolds (Lee)</title>
-<g id="a_node5"><a xlink:href="/books/RiemannianManifolds(Lee)" xlink:title="Riemannian Manifolds (Lee)">
+<g id="a_node5"><a xlink:href="/books/RiemannianManifolds(Lee)" xlink:title="Riemannian Manifolds (Lee)" target="_parent">
 <ellipse fill="none" stroke="black" cx="471.98" cy="-18" rx="141.07" ry="18"/>
 <text text-anchor="middle" x="471.98" y="-14.3" font-family="Times,serif" font-size="14.00">Riemannian Manifolds (Lee)</text>
 </a>

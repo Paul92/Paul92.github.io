@@ -12,7 +12,7 @@
 <!-- A First Course in Calculus (Lang) -->
 <g id="node1" class="node">
 <title>A First Course in Calculus (Lang)</title>
-<g id="a_node1"><a xlink:href="/books/AFirstCourseinCalculus(Lang)" xlink:title="A First Course in Calculus (Lang)">
+<g id="a_node1"><a xlink:href="/books/AFirstCourseinCalculus(Lang)" xlink:title="A First Course in Calculus (Lang)" target="_parent">
 <ellipse fill="none" stroke="red" cx="828.68" cy="-378" rx="165.17" ry="18"/>
 <text text-anchor="middle" x="828.68" y="-374.3" font-family="Times,serif" font-size="14.00">A First Course in Calculus (Lang)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Intro Physics (Moore/Morin) -->
 <g id="node7" class="node">
 <title>Intro Physics (Moore/Morin)</title>
-<g id="a_node7"><a xlink:href="/books/IntroPhysics(Moore/Morin)" xlink:title="Intro Physics (Moore/Morin)">
+<g id="a_node7"><a xlink:href="/books/IntroPhysics(Moore/Morin)" xlink:title="Intro Physics (Moore/Morin)" target="_parent">
 <ellipse fill="none" stroke="black" cx="828.68" cy="-306" rx="141.88" ry="18"/>
 <text text-anchor="middle" x="828.68" y="-302.3" font-family="Times,serif" font-size="14.00">Intro Physics (Moore/Morin)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Calculus on Several Variables (Lang) -->
 <g id="node2" class="node">
 <title>Calculus on Several Variables (Lang)</title>
-<g id="a_node2"><a xlink:href="/books/CalculusonSeveralVariables(Lang)" xlink:title="Calculus on Several Variables (Lang)">
+<g id="a_node2"><a xlink:href="/books/CalculusonSeveralVariables(Lang)" xlink:title="Calculus on Several Variables (Lang)" target="_parent">
 <ellipse fill="none" stroke="red" cx="180.68" cy="-306" rx="180.87" ry="18"/>
 <text text-anchor="middle" x="180.68" y="-302.3" font-family="Times,serif" font-size="14.00">Calculus on Several Variables (Lang)</text>
 </a>
@@ -45,7 +45,7 @@
 <!-- Classical Mechanics (Taylor/Gregory) -->
 <g id="node3" class="node">
 <title>Classical Mechanics (Taylor/Gregory)</title>
-<g id="a_node3"><a xlink:href="/books/ClassicalMechanics(TaylorGregory)" xlink:title="Classical Mechanics (Taylor/Gregory)">
+<g id="a_node3"><a xlink:href="/books/ClassicalMechanics(TaylorGregory)" xlink:title="Classical Mechanics (Taylor/Gregory)" target="_parent">
 <ellipse fill="none" stroke="black" cx="506.68" cy="-234" rx="183.07" ry="18"/>
 <text text-anchor="middle" x="506.68" y="-230.3" font-family="Times,serif" font-size="14.00">Classical Mechanics (Taylor/Gregory)</text>
 </a>
@@ -60,7 +60,7 @@
 <!-- Quantum Mechanics (Shankar/McQuarrie) -->
 <g id="node10" class="node">
 <title>Quantum Mechanics (Shankar/McQuarrie)</title>
-<g id="a_node10"><a xlink:href="/books/QuantumMechanics(ShankarMcQuarrie)" xlink:title="Quantum Mechanics (Shankar/McQuarrie)">
+<g id="a_node10"><a xlink:href="/books/QuantumMechanics(ShankarMcQuarrie)" xlink:title="Quantum Mechanics (Shankar/McQuarrie)" target="_parent">
 <ellipse fill="none" stroke="black" cx="506.68" cy="-18" rx="206.86" ry="18"/>
 <text text-anchor="middle" x="506.68" y="-14.3" font-family="Times,serif" font-size="14.00">Quantum Mechanics (Shankar/McQuarrie)</text>
 </a>
@@ -75,7 +75,7 @@
 <!-- Differential Geometry (Needham) -->
 <g id="node4" class="node">
 <title>Differential Geometry (Needham)</title>
-<g id="a_node4"><a xlink:href="/books/DifferentialGeometry(Needham)" xlink:title="Differential Geometry (Needham)">
+<g id="a_node4"><a xlink:href="/books/DifferentialGeometry(Needham)" xlink:title="Differential Geometry (Needham)" target="_parent">
 <ellipse fill="none" stroke="red" cx="1166.68" cy="-234" rx="167.07" ry="18"/>
 <text text-anchor="middle" x="1166.68" y="-230.3" font-family="Times,serif" font-size="14.00">Differential Geometry (Needham)</text>
 </a>
@@ -84,7 +84,7 @@
 <!-- General Relativity (Moore) -->
 <g id="node6" class="node">
 <title>General Relativity (Moore)</title>
-<g id="a_node6"><a xlink:href="/books/GeneralRelativity(Moore)" xlink:title="General Relativity (Moore)">
+<g id="a_node6"><a xlink:href="/books/GeneralRelativity(Moore)" xlink:title="General Relativity (Moore)" target="_parent">
 <ellipse fill="none" stroke="black" cx="1166.68" cy="-162" rx="134.58" ry="18"/>
 <text text-anchor="middle" x="1166.68" y="-158.3" font-family="Times,serif" font-size="14.00">General Relativity (Moore)</text>
 </a>
@@ -99,7 +99,7 @@
 <!-- Electrodynamics (Wangsness/Ohanian) -->
 <g id="node5" class="node">
 <title>Electrodynamics (Wangsness/Ohanian)</title>
-<g id="a_node5"><a xlink:href="/books/Electrodynamics(WangsnessOhanian)" xlink:title="Electrodynamics (Wangsness/Ohanian)">
+<g id="a_node5"><a xlink:href="/books/Electrodynamics(WangsnessOhanian)" xlink:title="Electrodynamics (Wangsness/Ohanian)" target="_parent">
 <ellipse fill="none" stroke="black" cx="823.68" cy="-162" rx="190.37" ry="18"/>
 <text text-anchor="middle" x="823.68" y="-158.3" font-family="Times,serif" font-size="14.00">Electrodynamics (Wangsness/Ohanian)</text>
 </a>
@@ -108,7 +108,7 @@
 <!-- Modern Physics (Taylor) -->
 <g id="node9" class="node">
 <title>Modern Physics (Taylor)</title>
-<g id="a_node9"><a xlink:href="/books/ModernPhysics(Taylor)" xlink:title="Modern Physics (Taylor)">
+<g id="a_node9"><a xlink:href="/books/ModernPhysics(Taylor)" xlink:title="Modern Physics (Taylor)" target="_parent">
 <ellipse fill="none" stroke="black" cx="823.68" cy="-90" rx="123.48" ry="18"/>
 <text text-anchor="middle" x="823.68" y="-86.3" font-family="Times,serif" font-size="14.00">Modern Physics (Taylor)</text>
 </a>
@@ -129,7 +129,7 @@
 <!-- Sepcial Relativity (Morin) -->
 <g id="node11" class="node">
 <title>Sepcial Relativity (Morin)</title>
-<g id="a_node11"><a xlink:href="/books/SepcialRelativity(Morin)" xlink:title="Sepcial Relativity (Morin)">
+<g id="a_node11"><a xlink:href="/books/SepcialRelativity(Morin)" xlink:title="Sepcial Relativity (Morin)" target="_parent">
 <ellipse fill="none" stroke="black" cx="837.68" cy="-234" rx="129.98" ry="18"/>
 <text text-anchor="middle" x="837.68" y="-230.3" font-family="Times,serif" font-size="14.00">Sepcial Relativity (Morin)</text>
 </a>
@@ -144,7 +144,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node8" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node8"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)">
+<g id="a_node8"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="515.68" cy="-306" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="515.68" y="-302.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>
@@ -165,7 +165,7 @@
 <!-- Thermal Physics (Reif) -->
 <g id="node12" class="node">
 <title>Thermal Physics (Reif)</title>
-<g id="a_node12"><a xlink:href="/books/ThermalPhysics(Reif)" xlink:title="Thermal Physics (Reif)">
+<g id="a_node12"><a xlink:href="/books/ThermalPhysics(Reif)" xlink:title="Thermal Physics (Reif)" target="_parent">
 <ellipse fill="none" stroke="black" cx="846.68" cy="-18" rx="115.88" ry="18"/>
 <text text-anchor="middle" x="846.68" y="-14.3" font-family="Times,serif" font-size="14.00">Thermal Physics (Reif)</text>
 </a>

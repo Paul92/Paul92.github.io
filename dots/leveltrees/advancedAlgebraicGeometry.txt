@@ -1,5 +1,6 @@
 #Advanced Algebraic Geometry
 digraph G {
+node [target=_parent]
 
 "Algebraic Curves (Kirwan)"[URL="/books/AlgebraicCurves(Kirwan)"]
 "Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]

@@ -1,5 +1,6 @@
 #Advanced Abstract Algebra
 digraph G {
+node [target=_parent]
 "Abstract Algebra (Aluffi)"[URL="/books/AbstractAlgebra(Aluffi)"]
 "Abstract Algebra (Dummit)"[URL="/books/AbstractAlgebra(Dummit)"]
 "Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]

@@ -1,5 +1,6 @@
 #Number Theory
 digraph G {
+node [target=_parent]
     "A Book on Abstract Algebra (Pinter)"[URL="/books/ABookonAbstractAlgebra(Pinter)"]
     "A Gateway to Number Theory (Kendig)" [URL="/books/AGatewaytoNumberTheory(Kendig)"]
     "Number Theory (Ireland Rosen)"[URL="/books/NumberTheory(IrelandRosen)"]

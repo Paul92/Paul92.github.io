@@ -12,7 +12,7 @@
 <!-- Abstract Algebra (Aluffi) -->
 <g id="node1" class="node">
 <title>Abstract Algebra (Aluffi)</title>
-<g id="a_node1"><a xlink:href="/books/AbstractAlgebra(Aluffi)" xlink:title="Abstract Algebra (Aluffi)">
+<g id="a_node1"><a xlink:href="/books/AbstractAlgebra(Aluffi)" xlink:title="Abstract Algebra (Aluffi)" target="_parent">
 <ellipse fill="none" stroke="black" cx="380.89" cy="-90" rx="124.28" ry="18"/>
 <text text-anchor="middle" x="380.89" y="-86.3" font-family="Times,serif" font-size="14.00">Abstract Algebra (Aluffi)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Abstract Algebra (Dummit) -->
 <g id="node2" class="node">
 <title>Abstract Algebra (Dummit)</title>
-<g id="a_node2"><a xlink:href="/books/AbstractAlgebra(Dummit)" xlink:title="Abstract Algebra (Dummit)">
+<g id="a_node2"><a xlink:href="/books/AbstractAlgebra(Dummit)" xlink:title="Abstract Algebra (Dummit)" target="_parent">
 <ellipse fill="none" stroke="red" cx="421.89" cy="-162" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="421.89" y="-158.3" font-family="Times,serif" font-size="14.00">Abstract Algebra (Dummit)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Commutative Algebra (Atiyah) -->
 <g id="node5" class="node">
 <title>Commutative Algebra (Atiyah)</title>
-<g id="a_node5"><a xlink:href="/books/CommutativeAlgebra(Atiyah)" xlink:title="Commutative Algebra (Atiyah)">
+<g id="a_node5"><a xlink:href="/books/CommutativeAlgebra(Atiyah)" xlink:title="Commutative Algebra (Atiyah)" target="_parent">
 <ellipse fill="none" stroke="black" cx="690.89" cy="-90" rx="151.37" ry="18"/>
 <text text-anchor="middle" x="690.89" y="-86.3" font-family="Times,serif" font-size="14.00">Commutative Algebra (Atiyah)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Algebraic Geometry (Cox) -->
 <g id="node3" class="node">
 <title>Algebraic Geometry (Cox)</title>
-<g id="a_node3"><a xlink:href="/books/AlgebraicGeometry(Cox)" xlink:title="Algebraic Geometry (Cox)">
+<g id="a_node3"><a xlink:href="/books/AlgebraicGeometry(Cox)" xlink:title="Algebraic Geometry (Cox)" target="_parent">
 <ellipse fill="none" stroke="red" cx="706.89" cy="-162" rx="130.78" ry="18"/>
 <text text-anchor="middle" x="706.89" y="-158.3" font-family="Times,serif" font-size="14.00">Algebraic Geometry (Cox)</text>
 </a>
@@ -66,7 +66,7 @@
 <!-- Category Theory (Awodey) -->
 <g id="node4" class="node">
 <title>Category Theory (Awodey)</title>
-<g id="a_node4"><a xlink:href="/books/CategoryTheory(Awodey)" xlink:title="Category Theory (Awodey)">
+<g id="a_node4"><a xlink:href="/books/CategoryTheory(Awodey)" xlink:title="Category Theory (Awodey)" target="_parent">
 <ellipse fill="none" stroke="red" cx="133.89" cy="-162" rx="133.78" ry="18"/>
 <text text-anchor="middle" x="133.89" y="-158.3" font-family="Times,serif" font-size="14.00">Category Theory (Awodey)</text>
 </a>
@@ -81,7 +81,7 @@
 <!-- Homological Algebra (Rotman) -->
 <g id="node6" class="node">
 <title>Homological Algebra (Rotman)</title>
-<g id="a_node6"><a xlink:href="/books/HomologicalAlgebra(Rotman)" xlink:title="Homological Algebra (Rotman)">
+<g id="a_node6"><a xlink:href="/books/HomologicalAlgebra(Rotman)" xlink:title="Homological Algebra (Rotman)" target="_parent">
 <ellipse fill="none" stroke="black" cx="419.89" cy="-18" rx="153.27" ry="18"/>
 <text text-anchor="middle" x="419.89" y="-14.3" font-family="Times,serif" font-size="14.00">Homological Algebra (Rotman)</text>
 </a>
@@ -102,7 +102,7 @@
 <!-- Topology (Lee/Wilansky/Viro) -->
 <g id="node7" class="node">
 <title>Topology (Lee/Wilansky/Viro)</title>
-<g id="a_node7"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)">
+<g id="a_node7"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
 <ellipse fill="none" stroke="red" cx="1000.89" cy="-162" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="1000.89" y="-158.3" font-family="Times,serif" font-size="14.00">Topology (Lee/Wilansky/Viro)</text>
 </a>

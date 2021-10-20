@@ -1,5 +1,6 @@
 #Calculus
 digraph G {
+node [target=_parent]
 
 "Basic Mathematics (Lang)"[URL="/books/BasicMathematics(Lang)"]
 "First Course in Calculus (Lang)"[URL="/books/FirstCourseinCalculus(Lang)"]

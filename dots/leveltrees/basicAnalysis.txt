@@ -1,5 +1,6 @@
 #Basic Analysis
 digraph G {
+node [target=_parent]
 
 "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
 "Analysis on R (Bloch/Spivak)"[URL="/books/AnalysisonR(Bloch/Spivak)"]

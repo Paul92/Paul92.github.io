@@ -1,5 +1,6 @@
 #Advanced Analysis
 digraph G {
+node [target=_parent]
 
 "Analysis on R (Bloch/Spivak)"[URL="/books/AnalysisonR(BlochSpivak)"]
 "Analysis on R^n (Duistermaat)"[URL="/books/AnalysisonRn(Duistermaat)"]

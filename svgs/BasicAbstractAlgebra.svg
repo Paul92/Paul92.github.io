@@ -12,7 +12,7 @@
 <!-- How To Prove It (Velleman) -->
 <g id="node1" class="node">
 <title>How To Prove It (Velleman)</title>
-<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)">
+<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)" target="_parent">
 <ellipse fill="none" stroke="red" cx="176.78" cy="-162" rx="137.58" ry="18"/>
 <text text-anchor="middle" x="176.78" y="-158.3" font-family="Times,serif" font-size="14.00">How To Prove It (Velleman)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- A Book on Abstract Algebra (Pinter) -->
 <g id="node2" class="node">
 <title>A Book on Abstract Algebra (Pinter)</title>
-<g id="a_node2"><a xlink:href="/books/ABookonAbstractAlgebra(Pinter)" xlink:title="A Book on Abstract Algebra (Pinter)">
+<g id="a_node2"><a xlink:href="/books/ABookonAbstractAlgebra(Pinter)" xlink:title="A Book on Abstract Algebra (Pinter)" target="_parent">
 <ellipse fill="none" stroke="black" cx="176.78" cy="-90" rx="176.57" ry="18"/>
 <text text-anchor="middle" x="176.78" y="-86.3" font-family="Times,serif" font-size="14.00">A Book on Abstract Algebra (Pinter)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Abstract Algebra (Dummit) -->
 <g id="node4" class="node">
 <title>Abstract Algebra (Dummit)</title>
-<g id="a_node4"><a xlink:href="/books/AbstractAlgebra(Dummit)" xlink:title="Abstract Algebra (Dummit)">
+<g id="a_node4"><a xlink:href="/books/AbstractAlgebra(Dummit)" xlink:title="Abstract Algebra (Dummit)" target="_parent">
 <ellipse fill="none" stroke="black" cx="341.78" cy="-18" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="341.78" y="-14.3" font-family="Times,serif" font-size="14.00">Abstract Algebra (Dummit)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node3" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node3"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)">
+<g id="a_node3"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="507.78" cy="-90" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="507.78" y="-86.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>

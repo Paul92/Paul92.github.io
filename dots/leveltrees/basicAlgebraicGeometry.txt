@@ -1,5 +1,6 @@
 #Basic Algebraic Geometry
 digraph G {
+node [target=_parent]
     "A Book on Abstract Algebra (Pinter)"[URL="/books/ABookonAbstractAlgebra(Pinter)"]
     "Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]
     "Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]

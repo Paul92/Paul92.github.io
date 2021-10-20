@@ -12,7 +12,7 @@
 <!-- A Book on Abstract Algebra (Pinter) -->
 <g id="node1" class="node">
 <title>A Book on Abstract Algebra (Pinter)</title>
-<g id="a_node1"><a xlink:href="/books/ABookonAbstractAlgebra(Pinter)" xlink:title="A Book on Abstract Algebra (Pinter)">
+<g id="a_node1"><a xlink:href="/books/ABookonAbstractAlgebra(Pinter)" xlink:title="A Book on Abstract Algebra (Pinter)" target="_parent">
 <ellipse fill="none" stroke="red" cx="176.78" cy="-162" rx="176.57" ry="18"/>
 <text text-anchor="middle" x="176.78" y="-158.3" font-family="Times,serif" font-size="14.00">A Book on Abstract Algebra (Pinter)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Algebraic Geometry (Cox) -->
 <g id="node2" class="node">
 <title>Algebraic Geometry (Cox)</title>
-<g id="a_node2"><a xlink:href="/books/AlgebraicGeometry(Cox)" xlink:title="Algebraic Geometry (Cox)">
+<g id="a_node2"><a xlink:href="/books/AlgebraicGeometry(Cox)" xlink:title="Algebraic Geometry (Cox)" target="_parent">
 <ellipse fill="none" stroke="black" cx="507.78" cy="-90" rx="130.78" ry="18"/>
 <text text-anchor="middle" x="507.78" y="-86.3" font-family="Times,serif" font-size="14.00">Algebraic Geometry (Cox)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Elliptic Curves (Silverman) -->
 <g id="node6" class="node">
 <title>Elliptic Curves (Silverman)</title>
-<g id="a_node6"><a xlink:href="/books/EllipticCurves(Silverman)" xlink:title="Elliptic Curves (Silverman)">
+<g id="a_node6"><a xlink:href="/books/EllipticCurves(Silverman)" xlink:title="Elliptic Curves (Silverman)" target="_parent">
 <ellipse fill="none" stroke="black" cx="677.78" cy="-18" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="677.78" y="-14.3" font-family="Times,serif" font-size="14.00">Elliptic Curves (Silverman)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node3" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node3"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)">
+<g id="a_node3"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="507.78" cy="-162" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="507.78" y="-158.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>
@@ -66,7 +66,7 @@
 <!-- Geometry (Brannan) -->
 <g id="node4" class="node">
 <title>Geometry (Brannan)</title>
-<g id="a_node4"><a xlink:href="/books/Geometry(Brannan)" xlink:title="Geometry (Brannan)">
+<g id="a_node4"><a xlink:href="/books/Geometry(Brannan)" xlink:title="Geometry (Brannan)" target="_parent">
 <ellipse fill="none" stroke="red" cx="767.78" cy="-162" rx="105.88" ry="18"/>
 <text text-anchor="middle" x="767.78" y="-158.3" font-family="Times,serif" font-size="14.00">Geometry (Brannan)</text>
 </a>
@@ -81,7 +81,7 @@
 <!-- A Gateway to Number Theory (Kendig) -->
 <g id="node5" class="node">
 <title>A Gateway to Number Theory (Kendig)</title>
-<g id="a_node5"><a xlink:href="/books/AGatewaytoNumberTheory(Kendig)" xlink:title="A Gateway to Number Theory (Kendig)">
+<g id="a_node5"><a xlink:href="/books/AGatewaytoNumberTheory(Kendig)" xlink:title="A Gateway to Number Theory (Kendig)" target="_parent">
 <ellipse fill="none" stroke="red" cx="847.78" cy="-90" rx="191.17" ry="18"/>
 <text text-anchor="middle" x="847.78" y="-86.3" font-family="Times,serif" font-size="14.00">A Gateway to Number Theory (Kendig)</text>
 </a>

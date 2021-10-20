@@ -1,5 +1,6 @@
 #Basic Abstract Algebra
 digraph G {
+node [target=_parent]
 "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
 "A Book on Abstract Algebra (Pinter)"[URL="/books/ABookonAbstractAlgebra(Pinter)"]
 "Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]

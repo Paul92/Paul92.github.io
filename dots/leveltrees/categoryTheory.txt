@@ -1,5 +1,6 @@
 #Category Theory
 digraph G {
+node [target=_parent]
     "Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
     "A Book on Asbtract Algebra (Pinter)"[URL="/books/ABookonAsbtractAlgebra(Pinter)"]
     "Category Theory (Awodey)"[URL="/books/CategoryTheory(Awodey)"]

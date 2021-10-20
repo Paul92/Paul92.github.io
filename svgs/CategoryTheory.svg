@@ -12,7 +12,7 @@
 <!-- Topology (Lee/Wilansky/Viro) -->
 <g id="node1" class="node">
 <title>Topology (Lee/Wilansky/Viro)</title>
-<g id="a_node1"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)">
+<g id="a_node1"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
 <ellipse fill="none" stroke="red" cx="145.59" cy="-162" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="145.59" y="-158.3" font-family="Times,serif" font-size="14.00">Topology (Lee/Wilansky/Viro)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Category Theory (Awodey) -->
 <g id="node3" class="node">
 <title>Category Theory (Awodey)</title>
-<g id="a_node3"><a xlink:href="/books/CategoryTheory(Awodey)" xlink:title="Category Theory (Awodey)">
+<g id="a_node3"><a xlink:href="/books/CategoryTheory(Awodey)" xlink:title="Category Theory (Awodey)" target="_parent">
 <ellipse fill="none" stroke="black" cx="315.59" cy="-90" rx="133.78" ry="18"/>
 <text text-anchor="middle" x="315.59" y="-86.3" font-family="Times,serif" font-size="14.00">Category Theory (Awodey)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- A Book on Asbtract Algebra (Pinter) -->
 <g id="node2" class="node">
 <title>A Book on Asbtract Algebra (Pinter)</title>
-<g id="a_node2"><a xlink:href="/books/ABookonAsbtractAlgebra(Pinter)" xlink:title="A Book on Asbtract Algebra (Pinter)">
+<g id="a_node2"><a xlink:href="/books/ABookonAsbtractAlgebra(Pinter)" xlink:title="A Book on Asbtract Algebra (Pinter)" target="_parent">
 <ellipse fill="none" stroke="red" cx="485.59" cy="-162" rx="176.57" ry="18"/>
 <text text-anchor="middle" x="485.59" y="-158.3" font-family="Times,serif" font-size="14.00">A Book on Asbtract Algebra (Pinter)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Topos Theory (Goldblatt) -->
 <g id="node4" class="node">
 <title>Topos Theory (Goldblatt)</title>
-<g id="a_node4"><a xlink:href="/books/ToposTheory(Goldblatt)" xlink:title="Topos Theory (Goldblatt)">
+<g id="a_node4"><a xlink:href="/books/ToposTheory(Goldblatt)" xlink:title="Topos Theory (Goldblatt)" target="_parent">
 <ellipse fill="none" stroke="black" cx="315.59" cy="-18" rx="126.18" ry="18"/>
 <text text-anchor="middle" x="315.59" y="-14.3" font-family="Times,serif" font-size="14.00">Topos Theory (Goldblatt)</text>
 </a>

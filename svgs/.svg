@@ -12,7 +12,7 @@
 <!-- Real Analysis (Carothers) -->
 <g id="node1" class="node">
 <title>Real Analysis (Carothers)</title>
-<g id="a_node1"><a xlink:href="/books/RealAnalysis(Carothers)" xlink:title="Real Analysis (Carothers)">
+<g id="a_node1"><a xlink:href="/books/RealAnalysis(Carothers)" xlink:title="Real Analysis (Carothers)" target="_parent">
 <ellipse fill="none" stroke="red" cx="128.69" cy="-162" rx="128.88" ry="18"/>
 <text text-anchor="middle" x="128.69" y="-158.3" font-family="Times,serif" font-size="14.00">Real Analysis (Carothers)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Topology (Lee/Wilansky/Viro) -->
 <g id="node2" class="node">
 <title>Topology (Lee/Wilansky/Viro)</title>
-<g id="a_node2"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)">
+<g id="a_node2"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
 <ellipse fill="none" stroke="black" cx="289.69" cy="-90" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="289.69" y="-86.3" font-family="Times,serif" font-size="14.00">Topology (Lee/Wilansky/Viro)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Algebraic Topology (Rotman) -->
 <g id="node4" class="node">
 <title>Algebraic Topology (Rotman)</title>
-<g id="a_node4"><a xlink:href="/books/AlgebraicTopology(Rotman)" xlink:title="Algebraic Topology (Rotman)">
+<g id="a_node4"><a xlink:href="/books/AlgebraicTopology(Rotman)" xlink:title="Algebraic Topology (Rotman)" target="_parent">
 <ellipse fill="none" stroke="black" cx="289.69" cy="-18" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="289.69" y="-14.3" font-family="Times,serif" font-size="14.00">Algebraic Topology (Rotman)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- A Book on Abstract algebra (Pinter) -->
 <g id="node3" class="node">
 <title>A Book on Abstract algebra (Pinter)</title>
-<g id="a_node3"><a xlink:href="/books/ABookonAbstractalgebra(Pinter)" xlink:title="A Book on Abstract algebra (Pinter)">
+<g id="a_node3"><a xlink:href="/books/ABookonAbstractalgebra(Pinter)" xlink:title="A Book on Abstract algebra (Pinter)" target="_parent">
 <ellipse fill="none" stroke="red" cx="451.69" cy="-162" rx="176.27" ry="18"/>
 <text text-anchor="middle" x="451.69" y="-158.3" font-family="Times,serif" font-size="14.00">A Book on Abstract algebra (Pinter)</text>
 </a>

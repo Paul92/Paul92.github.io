@@ -1,5 +1,6 @@
 #Foundations
 digraph G {
+node [target=_parent]
     "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
     "Logical Options (Bell)"[URL="/books/LogicalOptions(Bell)"]
     "Mathematical Logic (Bell)" [URL="/books/MathematicalLogic(Bell)"]

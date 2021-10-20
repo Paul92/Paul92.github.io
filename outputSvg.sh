@@ -3,7 +3,9 @@
 FILES="dots/leveltrees/*"
 for f in $FILES
 do
-    filename=$(basename -- $f)
     echo "Processing $f"
-    dot -Tsvg $f -o "svgs/$filename.svg"
+    filename=$(basename -- $f)
+    filename=$(echo $filename | cut -d'.' -f1)
+
+    dot -Tsvg $f -o "svgs/${filename^}.svg"
 done

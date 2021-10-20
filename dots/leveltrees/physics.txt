@@ -1,5 +1,6 @@
 #Physics
 digraph G {
+node [target=_parent]
 "A First Course in Calculus (Lang)"[URL="/books/AFirstCourseinCalculus(Lang)"]
 "Calculus on Several Variables (Lang)"[URL="/books/CalculusonSeveralVariables(Lang)"]
 "Classical Mechanics (Taylor/Gregory)"[URL="/books/ClassicalMechanics(TaylorGregory)"]

@@ -1,5 +1,6 @@
 #High School Math
 digraph G {
+node [target=_parent]
 "Pre-algebra (Openstax)"[URL="/books/Pre-algebra(Openstax)"]
 "Elementary Algebra (Openstax)"[URL="/books/ElementaryAlgebra(Openstax)"]
 "Intermediate Algebra (Openstax)"[URL="/books/IntermediateAlgebra(Openstax)"]

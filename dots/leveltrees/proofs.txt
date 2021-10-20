@@ -1,5 +1,6 @@
 #Proofs
 digraph G {
+node [target=_parent]
 "Intermediate Algebra (Openstax)"[URL="/books/IntermediateAlgebra(Openstax)"]
 "How to Prove it (Velleman)"[URL="/books/HowtoProveit(Velleman)"]
 

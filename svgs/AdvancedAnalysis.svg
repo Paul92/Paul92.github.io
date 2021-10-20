@@ -12,7 +12,7 @@
 <!-- Analysis on R (Bloch/Spivak) -->
 <g id="node1" class="node">
 <title>Analysis on R (Bloch/Spivak)</title>
-<g id="a_node1"><a xlink:href="/books/AnalysisonR(BlochSpivak)" xlink:title="Analysis on R (Bloch/Spivak)">
+<g id="a_node1"><a xlink:href="/books/AnalysisonR(BlochSpivak)" xlink:title="Analysis on R (Bloch/Spivak)" target="_parent">
 <ellipse fill="none" stroke="red" cx="597.18" cy="-234" rx="142.97" ry="18"/>
 <text text-anchor="middle" x="597.18" y="-230.3" font-family="Times,serif" font-size="14.00">Analysis on R (Bloch/Spivak)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Real Analysis (Carothers) -->
 <g id="node9" class="node">
 <title>Real Analysis (Carothers)</title>
-<g id="a_node9"><a xlink:href="/books/RealAnalysis(Carothers)" xlink:title="Real Analysis (Carothers)">
+<g id="a_node9"><a xlink:href="/books/RealAnalysis(Carothers)" xlink:title="Real Analysis (Carothers)" target="_parent">
 <ellipse fill="none" stroke="black" cx="597.18" cy="-162" rx="128.88" ry="18"/>
 <text text-anchor="middle" x="597.18" y="-158.3" font-family="Times,serif" font-size="14.00">Real Analysis (Carothers)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Analysis on R^n (Duistermaat) -->
 <g id="node2" class="node">
 <title>Analysis on R^n (Duistermaat)</title>
-<g id="a_node2"><a xlink:href="/books/AnalysisonRn(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)">
+<g id="a_node2"><a xlink:href="/books/AnalysisonRn(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)" target="_parent">
 <ellipse fill="none" stroke="red" cx="901.18" cy="-162" rx="154.87" ry="18"/>
 <text text-anchor="middle" x="901.18" y="-158.3" font-family="Times,serif" font-size="14.00">Analysis on R^n (Duistermaat)</text>
 </a>
@@ -45,7 +45,7 @@
 <!-- Complex Analysis (Freitag) -->
 <g id="node5" class="node">
 <title>Complex Analysis (Freitag)</title>
-<g id="a_node5"><a xlink:href="/books/ComplexAnalysis(Freitag)" xlink:title="Complex Analysis (Freitag)">
+<g id="a_node5"><a xlink:href="/books/ComplexAnalysis(Freitag)" xlink:title="Complex Analysis (Freitag)" target="_parent">
 <ellipse fill="none" stroke="black" cx="904.18" cy="-90" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="904.18" y="-86.3" font-family="Times,serif" font-size="14.00">Complex Analysis (Freitag)</text>
 </a>
@@ -60,7 +60,7 @@
 <!-- Analysis Sequence of Simon -->
 <g id="node3" class="node">
 <title>Analysis Sequence of Simon</title>
-<g id="a_node3"><a xlink:href="/books/AnalysisSequenceofSimon" xlink:title="Analysis Sequence of Simon">
+<g id="a_node3"><a xlink:href="/books/AnalysisSequenceofSimon" xlink:title="Analysis Sequence of Simon" target="_parent">
 <ellipse fill="none" stroke="black" cx="597.18" cy="-18" rx="141.07" ry="18"/>
 <text text-anchor="middle" x="597.18" y="-14.3" font-family="Times,serif" font-size="14.00">Analysis Sequence of Simon</text>
 </a>
@@ -69,7 +69,7 @@
 <!-- Complex Analysis 2 (Freitag) -->
 <g id="node4" class="node">
 <title>Complex Analysis 2 (Freitag)</title>
-<g id="a_node4"><a xlink:href="/books/ComplexAnalysis2(Freitag)" xlink:title="Complex Analysis 2 (Freitag)">
+<g id="a_node4"><a xlink:href="/books/ComplexAnalysis2(Freitag)" xlink:title="Complex Analysis 2 (Freitag)" target="_parent">
 <ellipse fill="none" stroke="black" cx="904.18" cy="-18" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="904.18" y="-14.3" font-family="Times,serif" font-size="14.00">Complex Analysis 2 (Freitag)</text>
 </a>
@@ -90,7 +90,7 @@
 <!-- Introductory Functional Analysis (Kreyszig) -->
 <g id="node6" class="node">
 <title>Introductory Functional Analysis (Kreyszig)</title>
-<g id="a_node6"><a xlink:href="/books/IntroductoryFunctionalAnalysis(Kreyszig)" xlink:title="Introductory Functional Analysis (Kreyszig)">
+<g id="a_node6"><a xlink:href="/books/IntroductoryFunctionalAnalysis(Kreyszig)" xlink:title="Introductory Functional Analysis (Kreyszig)" target="_parent">
 <ellipse fill="none" stroke="black" cx="213.18" cy="-90" rx="213.36" ry="18"/>
 <text text-anchor="middle" x="213.18" y="-86.3" font-family="Times,serif" font-size="14.00">Introductory Functional Analysis (Kreyszig)</text>
 </a>
@@ -105,7 +105,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node7" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node7"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)">
+<g id="a_node7"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="896.18" cy="-234" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="896.18" y="-230.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>
@@ -126,7 +126,7 @@
 <!-- Measure Theory (Jones/Bartle) -->
 <g id="node8" class="node">
 <title>Measure Theory (Jones/Bartle)</title>
-<g id="a_node8"><a xlink:href="/books/MeasureTheory(JonesBartle)" xlink:title="Measure Theory (Jones/Bartle)">
+<g id="a_node8"><a xlink:href="/books/MeasureTheory(JonesBartle)" xlink:title="Measure Theory (Jones/Bartle)" target="_parent">
 <ellipse fill="none" stroke="black" cx="597.18" cy="-90" rx="152.97" ry="18"/>
 <text text-anchor="middle" x="597.18" y="-86.3" font-family="Times,serif" font-size="14.00">Measure Theory (Jones/Bartle)</text>
 </a>

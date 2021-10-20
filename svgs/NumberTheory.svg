@@ -12,7 +12,7 @@
 <!-- A Book on Abstract Algebra (Pinter) -->
 <g id="node1" class="node">
 <title>A Book on Abstract Algebra (Pinter)</title>
-<g id="a_node1"><a xlink:href="/books/ABookonAbstractAlgebra(Pinter)" xlink:title="A Book on Abstract Algebra (Pinter)">
+<g id="a_node1"><a xlink:href="/books/ABookonAbstractAlgebra(Pinter)" xlink:title="A Book on Abstract Algebra (Pinter)" target="_parent">
 <ellipse fill="none" stroke="red" cx="361.08" cy="-162" rx="176.57" ry="18"/>
 <text text-anchor="middle" x="361.08" y="-158.3" font-family="Times,serif" font-size="14.00">A Book on Abstract Algebra (Pinter)</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- A Gateway to Number Theory (Kendig) -->
 <g id="node2" class="node">
 <title>A Gateway to Number Theory (Kendig)</title>
-<g id="a_node2"><a xlink:href="/books/AGatewaytoNumberTheory(Kendig)" xlink:title="A Gateway to Number Theory (Kendig)">
+<g id="a_node2"><a xlink:href="/books/AGatewaytoNumberTheory(Kendig)" xlink:title="A Gateway to Number Theory (Kendig)" target="_parent">
 <ellipse fill="none" stroke="black" cx="191.08" cy="-90" rx="191.17" ry="18"/>
 <text text-anchor="middle" x="191.08" y="-86.3" font-family="Times,serif" font-size="14.00">A Gateway to Number Theory (Kendig)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Cryptography (Silverman) -->
 <g id="node4" class="node">
 <title>Cryptography (Silverman)</title>
-<g id="a_node4"><a xlink:href="/books/Cryptography(Silverman)" xlink:title="Cryptography (Silverman)">
+<g id="a_node4"><a xlink:href="/books/Cryptography(Silverman)" xlink:title="Cryptography (Silverman)" target="_parent">
 <ellipse fill="none" stroke="black" cx="532.08" cy="-90" rx="131.88" ry="18"/>
 <text text-anchor="middle" x="532.08" y="-86.3" font-family="Times,serif" font-size="14.00">Cryptography (Silverman)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Number Theory (Ireland Rosen) -->
 <g id="node3" class="node">
 <title>Number Theory (Ireland Rosen)</title>
-<g id="a_node3"><a xlink:href="/books/NumberTheory(IrelandRosen)" xlink:title="Number Theory (Ireland Rosen)">
+<g id="a_node3"><a xlink:href="/books/NumberTheory(IrelandRosen)" xlink:title="Number Theory (Ireland Rosen)" target="_parent">
 <ellipse fill="none" stroke="black" cx="191.08" cy="-18" rx="157.87" ry="18"/>
 <text text-anchor="middle" x="191.08" y="-14.3" font-family="Times,serif" font-size="14.00">Number Theory (Ireland Rosen)</text>
 </a>
