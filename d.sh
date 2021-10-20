@@ -8,7 +8,7 @@ do
     echo "$fieldname"
     echo "---
 layout: page
-title: Map
+title: $i
 full-width: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Map
+title: /field/Foundations
 full-width: true
 ---
 

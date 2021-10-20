@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Map
+title: /field/DifferentialGeometry
 full-width: true
 ---
 
