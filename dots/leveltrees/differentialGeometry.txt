@@ -1,0 +1,9 @@
+#Differential Geometry
+digraph G {
+    "Analysis on R^n (Duistermaat)" [color = "red"] 
+    "Analysis on R^n (Duistermaat)" -> "Classical Differential Geometry (Do Carmo/Needham)"
+    "Topology (Lee/Wilansky/Viro)" [color = "red"]
+    "Classical Differential Geometry (Do Carmo/Needham)" -> "Differentiable Manifolds (Lee)"
+    "Topology (Lee/Wilansky/Viro)" -> "Differentiable Manifolds (Lee)"
+    "Differentiable Manifolds (Lee)" -> "Riemannian Manifolds (Lee)"
+}

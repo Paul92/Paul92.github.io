@@ -1,0 +1,8 @@
+#Topology
+digraph G {
+    "Real Analysis (Carothers)" -> "Topology (Lee/Wilansky/Viro)"
+    "A Book on Abstract algebra (Pinter)" -> "Topology (Lee/Wilansky/Viro)"
+    "Real Analysis (Carothers)" [color = "red"] 
+    "A Book on Abstract algebra (Pinter)" [color = "red"]
+    "Topology (Lee/Wilansky/Viro)" -> "Algebraic Topology (Rotman)"
+}

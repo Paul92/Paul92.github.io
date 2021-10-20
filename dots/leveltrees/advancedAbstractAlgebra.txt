@@ -1,0 +1,14 @@
+#Advanced Abstract Algebra
+digraph G {
+    "Abstract Algebra (Dummit)" [color = "red"] 
+    "Category Theory (Awodey)" [color = "red"] 
+    "Abstract Algebra (Dummit)" -> "Abstract Algebra (Aluffi)"
+    "Category Theory (Awodey)" -> "Abstract Algebra (Aluffi)"
+    "Abstract Algebra (Dummit)" -> "Commutative Algebra (Atiyah)"
+    "Topology (Lee/Wilansky/Viro)" [color = "red"] 
+    "Topology (Lee/Wilansky/Viro)" -> "Commutative Algebra (Atiyah)"
+    "Algebraic Geometry (Cox)" [color = "red"]
+    "Algebraic Geometry (Cox)" -> "Commutative Algebra (Atiyah)"
+    "Commutative Algebra (Atiyah)" -> "Homological Algebra (Rotman)"
+    "Category Theory (Awodey)" -> "Homological Algebra (Rotman)"
+}

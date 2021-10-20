@@ -1,0 +1,9 @@
+#Foundations
+digraph G {
+    "How To Prove It (Velleman)" [color = "red"] 
+    "How To Prove It (Velleman)" -> "Logical Options (Bell)"
+    "Logical Options (Bell)" -> "Mathematical Logic (Bell)" 
+    "Logical Options (Bell)" -> "Set Theory (Hrbacek)"
+    "Mathematical Logic (Bell)" -> "Boolean Valued Models and Independence Proofs (Bell)"
+    "Set Theory (Hrbacek)" -> "Boolean Valued Models and Independence Proofs (Bell)"
+}

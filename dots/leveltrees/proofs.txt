@@ -1,0 +1,5 @@
+#Proofs
+digraph G {
+"Intermediate Algebra (Openstax)" [color = "red"] 
+"Intermediate Algebra (Openstax)" -> "How to Prove it (Velleman)"
+}

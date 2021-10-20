@@ -1,0 +1,12 @@
+#Linear Algebra
+digraph G {
+    "How To Prove It (Velleman)" [color = "red"]
+    "How To Prove It (Velleman)" -> "Linear Algebra (Friedberg)"
+    "Linear Algebra (Friedberg)" -> "Advanced Linear Algebra (Roman)"
+    "Abstract Algebra (Dummit)" [color = "red"] 
+    "Abstract Algebra (Dummit)" -> "Advanced Linear Algebra (Roman)"
+    "Set Theory (Hrbacek)" [color = "red"]
+    "Set Theory (Hrbacek)" -> "Advanced Linear Algebra (Roman)"
+    "Linear Algebra (Friedberg)" -> "Numerical Linear Algebra (Trefethen)"
+}
+

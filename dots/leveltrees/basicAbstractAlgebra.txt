@@ -1,0 +1,8 @@
+#Basic Abstract Algebra
+digraph G {
+"How To Prove It (Velleman)" [color = "red"] 
+"How To Prove It (Velleman)" -> "A Book on Abstract Algebra (Pinter)" 
+"Linear Algebra (Friedberg)" [color = "red"] 
+"A Book on Abstract Algebra (Pinter)" -> "Abstract Algebra (Dummit)"
+"Linear Algebra (Friedberg)" -> "Abstract Algebra (Dummit)"
+}

@@ -1,0 +1,7 @@
+#Number Theory
+digraph G {
+    "A Book on Abstract Algebra (Pinter)" [color = "red"]
+    "A Book on Abstract Algebra (Pinter)" -> "A Gateway to Number Theory (Kendig)" 
+    "A Gateway to Number Theory (Kendig)" -> "Number Theory (Ireland Rosen)"
+    "A Book on Abstract Algebra (Pinter)" -> "Cryptography (Silverman)"
+}

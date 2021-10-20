@@ -1,0 +1,17 @@
+#Advanced Algebraic Geometry
+digraph G {
+    "Category Theory (Awodey)" [color = "red"] 
+    "Topology (Lee/Wilansky/Viro)" [color = "red"]
+    "Category Theory (Awodey)" -> "Sheaf Theory (Tennison)"
+    "Topology (Lee/Wilansky/Viro)" -> "Sheaf Theory (Tennison)"
+    "Algebraic Geometry (Cox)" [color = "red"] 
+    "Algebraic Geometry (Cox)" -> "Algebraic Curves (Kirwan)"
+    "Complex Analysis (Freitag)" [color = "red"] 
+    "Complex Analysis (Freitag)" -> "Algebraic Curves (Kirwan)"
+    "Complex Analysis 2 (Freitag)" [color = "red"] 
+    "Complex Analysis (Freitag)" -> "Complex Analysis 2 (Freitag)"
+    "Complex Analysis 2 (Freitag)" -> "Riemann Surfaces (Miranda)" 
+    "Algebraic Curves (Kirwan)" -> "Riemann Surfaces (Miranda)"
+    "Riemann Surfaces (Miranda)" -> "Scheme Theory (Ueno)"
+    "Sheaf Theory (Tennison)" -> "Scheme Theory (Ueno)"
+}

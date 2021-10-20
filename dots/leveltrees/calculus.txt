@@ -1,0 +1,7 @@
+#Calculus
+digraph G {
+"Basic Mathematics (Lang)" -> "First Course in Calculus (Lang)"
+"First Course in Calculus (Lang)" -> "Calculus in Several Variables (Lang)"
+"Calculus in Several Variables (Lang)" -> "Differential Equations with Historical Notes (Simmons)"
+"Basic Mathematics (Lang)" [color = "red",]
+}

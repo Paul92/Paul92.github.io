@@ -1,0 +1,12 @@
+#Basic Algebraic Geometry
+digraph G {
+    "A Book on Abstract Algebra (Pinter)" [color = "red"] 
+    "A Book on Abstract Algebra (Pinter)" -> "Algebraic Geometry (Cox)"
+    "Linear Algebra (Friedberg)" [color = "red"]
+    "Linear Algebra (Friedberg)" -> "Algebraic Geometry (Cox)"
+    "Geometry (Brannan)" [color = "red"] 
+    "Geometry (Brannan)" -> "Algebraic Geometry (Cox)"
+    "A Gateway to Number Theory (Kendig)" [color = "red"] 
+    "A Gateway to Number Theory (Kendig)" -> "Elliptic Curves (Silverman)"
+    "Algebraic Geometry (Cox)" -> "Elliptic Curves (Silverman)"
+}

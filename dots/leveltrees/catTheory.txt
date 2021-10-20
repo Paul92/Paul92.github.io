@@ -1,0 +1,8 @@
+#Category Theory
+digraph G {
+    "Topology (Lee/Wilansky/Viro)" [color = "red"] 
+    "A Book on Asbtract Algebra (Pinter)" [color = "red"]
+    "Topology (Lee/Wilansky/Viro)" -> "Category Theory (Awodey)"
+    "A Book on Asbtract Algebra (Pinter)" -> "Category Theory (Awodey)"
+    "Category Theory (Awodey)" -> "Topos Theory (Goldblatt)"
+}

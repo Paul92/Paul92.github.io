@@ -1,0 +1,8 @@
+#High School Math
+digraph G {
+"Pre-algebra (Openstax)" -> "Elementary Algebra (Openstax)"
+"Elementary Algebra (Openstax)" -> "Intermediate Algebra (Openstax)"
+"Geometry (Lang)" -> "Basic Mathematics (Lang)"
+"Intermediate Algebra (Openstax)" -> "Trigonometry (Gelfand)"
+"Trigonometry (Gelfand)" -> "Geometry (Lang)"
+}
