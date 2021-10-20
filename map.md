@@ -6,6 +6,6 @@ full-width: true
 
 
 <div style="text-align: center">
-<object type="image/svg+xml" data="/svgs/main.txt.svg"> </object>
+<object type="image/svg+xml" data="/svgs/Main.svg"> </object>
 </div>
 
