@@ -13,7 +13,7 @@ full-width: true
 ---
 
 
-<div style="text-align: center">
-<object type="image/svg+xml" data="/svgs/$fieldname.txt.svg"> </object>
+<div style=\"text-align: center\">
+<object type=\"image/svg+xml\" data=\"/svgs/$fieldname.txt.svg\"> </object>
 </div>" > "field/$fieldname.md"
 done
