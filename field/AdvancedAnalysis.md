@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AdvancedAnalysis
+title: Advanced Analysis
 full-width: true
 ---
 

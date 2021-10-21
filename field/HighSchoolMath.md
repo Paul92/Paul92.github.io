@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HighSchoolMath
+title: High School Math
 full-width: true
 ---
 

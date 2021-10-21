@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BasicAlgebraicGeometry
+title: Basic Algebraic Geometry
 full-width: true
 ---
 

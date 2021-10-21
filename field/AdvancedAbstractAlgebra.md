@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AdvancedAbstractAlgebra
+title: Advanced Abstract Algebra
 full-width: true
 ---
 

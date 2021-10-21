@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CategoryTheory
+title: Category Theory
 full-width: true
 ---
 

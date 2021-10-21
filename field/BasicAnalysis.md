@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BasicAnalysis
+title: Basic Analysis
 full-width: true
 ---
 

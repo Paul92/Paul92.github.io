@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BasicAbstractAlgebra
+title: Basic Abstract Algebra
 full-width: true
 ---
 

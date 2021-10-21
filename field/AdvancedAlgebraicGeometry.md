@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AdvancedAlgebraicGeometry
+title: Advanced Algebraic Geometry
 full-width: true
 ---
 

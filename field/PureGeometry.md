@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PureGeometry
+title: Pure Geometry
 full-width: true
 ---
 
