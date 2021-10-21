@@ -1,11 +1,11 @@
 #Basic Algebraic Geometry
 digraph G {
 node [target=_parent]
-    "A Book on Abstract Algebra (Pinter)"[URL="/books/ABookonAbstractAlgebra(Pinter)"]
+    "A Book on Abstract Algebra (Pinter)"[URL="/field/BasicAbstractAlgebra"]
     "Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]
-    "Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+    "Linear Algebra (Friedberg)"[URL="/field/LinearAlgebra"]
     "Geometry (Brannan)"[URL="/books/Geometry(Brannan)"]
-    "A Gateway to Number Theory (Kendig)"[URL="/books/AGatewaytoNumberTheory(Kendig)"]
+    "A Gateway to Number Theory (Kendig)"[URL="/field/NumberTheory"]
     "Elliptic Curves (Silverman)"[URL="/books/EllipticCurves(Silverman)"]
 
 
