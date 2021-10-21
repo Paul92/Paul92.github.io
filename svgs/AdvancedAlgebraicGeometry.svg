@@ -36,7 +36,7 @@
 <!-- Algebraic Geometry (Cox) -->
 <g id="node2" class="node">
 <title>Algebraic Geometry (Cox)</title>
-<g id="a_node2"><a xlink:href="/books/AlgebraicGeometry(Cox)" xlink:title="Algebraic Geometry (Cox)" target="_parent">
+<g id="a_node2"><a xlink:href="/field/BasicAlgebraicGeometry" xlink:title="Algebraic Geometry (Cox)" target="_parent">
 <ellipse fill="none" stroke="red" cx="727.89" cy="-234" rx="130.78" ry="18"/>
 <text text-anchor="middle" x="727.89" y="-230.3" font-family="Times,serif" font-size="14.00">Algebraic Geometry (Cox)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Category Theory (Awodey) -->
 <g id="node3" class="node">
 <title>Category Theory (Awodey)</title>
-<g id="a_node3"><a xlink:href="/books/CategoryTheory(Awodey)" xlink:title="Category Theory (Awodey)" target="_parent">
+<g id="a_node3"><a xlink:href="/field/CategoryTheory" xlink:title="Category Theory (Awodey)" target="_parent">
 <ellipse fill="none" stroke="red" cx="133.89" cy="-162" rx="133.78" ry="18"/>
 <text text-anchor="middle" x="133.89" y="-158.3" font-family="Times,serif" font-size="14.00">Category Theory (Awodey)</text>
 </a>
@@ -75,7 +75,7 @@
 <!-- Complex Analysis 2 (Freitag) -->
 <g id="node4" class="node">
 <title>Complex Analysis 2 (Freitag)</title>
-<g id="a_node4"><a xlink:href="/books/ComplexAnalysis2(Freitag)" xlink:title="Complex Analysis 2 (Freitag)" target="_parent">
+<g id="a_node4"><a xlink:href="/field/AdvancedAnalysis" xlink:title="Complex Analysis 2 (Freitag)" target="_parent">
 <ellipse fill="none" stroke="red" cx="1024.89" cy="-162" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="1024.89" y="-158.3" font-family="Times,serif" font-size="14.00">Complex Analysis 2 (Freitag)</text>
 </a>
@@ -90,7 +90,7 @@
 <!-- Complex Analysis (Freitag) -->
 <g id="node5" class="node">
 <title>Complex Analysis (Freitag)</title>
-<g id="a_node5"><a xlink:href="/books/ComplexAnalysis(Freitag)" xlink:title="Complex Analysis (Freitag)" target="_parent">
+<g id="a_node5"><a xlink:href="/field/AdvancedAnalysis" xlink:title="Complex Analysis (Freitag)" target="_parent">
 <ellipse fill="none" stroke="red" cx="1018.89" cy="-234" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="1018.89" y="-230.3" font-family="Times,serif" font-size="14.00">Complex Analysis (Freitag)</text>
 </a>
@@ -132,7 +132,7 @@
 <!-- Topology (Lee/Wilansky/Viro) -->
 <g id="node9" class="node">
 <title>Topology (Lee/Wilansky/Viro)</title>
-<g id="a_node9"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
+<g id="a_node9"><a xlink:href="/field/Topology" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
 <ellipse fill="none" stroke="red" cx="430.89" cy="-162" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="430.89" y="-158.3" font-family="Times,serif" font-size="14.00">Topology (Lee/Wilansky/Viro)</text>
 </a>

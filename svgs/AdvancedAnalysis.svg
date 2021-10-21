@@ -12,7 +12,7 @@
 <!-- Analysis on R (Bloch/Spivak) -->
 <g id="node1" class="node">
 <title>Analysis on R (Bloch/Spivak)</title>
-<g id="a_node1"><a xlink:href="/books/AnalysisonR(BlochSpivak)" xlink:title="Analysis on R (Bloch/Spivak)" target="_parent">
+<g id="a_node1"><a xlink:href="/field/BasicAnalysis" xlink:title="Analysis on R (Bloch/Spivak)" target="_parent">
 <ellipse fill="none" stroke="red" cx="597.18" cy="-234" rx="142.97" ry="18"/>
 <text text-anchor="middle" x="597.18" y="-230.3" font-family="Times,serif" font-size="14.00">Analysis on R (Bloch/Spivak)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Analysis on R^n (Duistermaat) -->
 <g id="node2" class="node">
 <title>Analysis on R^n (Duistermaat)</title>
-<g id="a_node2"><a xlink:href="/books/AnalysisonRn(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)" target="_parent">
+<g id="a_node2"><a xlink:href="/field/BasicAnalysis" xlink:title="Analysis on R^n (Duistermaat)" target="_parent">
 <ellipse fill="none" stroke="red" cx="901.18" cy="-162" rx="154.87" ry="18"/>
 <text text-anchor="middle" x="901.18" y="-158.3" font-family="Times,serif" font-size="14.00">Analysis on R^n (Duistermaat)</text>
 </a>
@@ -105,7 +105,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node7" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node7"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
+<g id="a_node7"><a xlink:href="/field/LinearAlgebra" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="896.18" cy="-234" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="896.18" y="-230.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>

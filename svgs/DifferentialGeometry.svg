@@ -12,7 +12,7 @@
 <!-- Analysis on R^n (Duistermaat) -->
 <g id="node1" class="node">
 <title>Analysis on R^n (Duistermaat)</title>
-<g id="a_node1"><a xlink:href="/books/AnalysisonR^n(Duistermaat)" xlink:title="Analysis on R^n (Duistermaat)" target="_parent">
+<g id="a_node1"><a xlink:href="/field/BasicAnalysis" xlink:title="Analysis on R^n (Duistermaat)" target="_parent">
 <ellipse fill="none" stroke="red" cx="259.98" cy="-234" rx="154.87" ry="18"/>
 <text text-anchor="middle" x="259.98" y="-230.3" font-family="Times,serif" font-size="14.00">Analysis on R^n (Duistermaat)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Topology (Lee/Wilansky/Viro) -->
 <g id="node3" class="node">
 <title>Topology (Lee/Wilansky/Viro)</title>
-<g id="a_node3"><a xlink:href="/books/Topology(LeeWilanskyViro)" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
+<g id="a_node3"><a xlink:href="/field/Topology" xlink:title="Topology (Lee/Wilansky/Viro)" target="_parent">
 <ellipse fill="none" stroke="red" cx="683.98" cy="-162" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="683.98" y="-158.3" font-family="Times,serif" font-size="14.00">Topology (Lee/Wilansky/Viro)</text>
 </a>

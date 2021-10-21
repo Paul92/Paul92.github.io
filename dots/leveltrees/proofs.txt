@@ -1,7 +1,7 @@
 #Proofs
 digraph G {
 node [target=_parent]
-"Intermediate Algebra (Openstax)"[URL="/books/IntermediateAlgebra(Openstax)"]
+"Intermediate Algebra (Openstax)"[URL="/field/HighSchoolMath"]
 "How to Prove it (Velleman)"[URL="/books/HowtoProveit(Velleman)"]
 
 "Intermediate Algebra (Openstax)" [color = "red"] 

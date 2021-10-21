@@ -12,7 +12,7 @@
 <!-- How To Prove It (Velleman) -->
 <g id="node1" class="node">
 <title>How To Prove It (Velleman)</title>
-<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)" target="_parent">
+<g id="a_node1"><a xlink:href="/field/Proofs" xlink:title="How To Prove It (Velleman)" target="_parent">
 <ellipse fill="none" stroke="red" cx="176.78" cy="-162" rx="137.58" ry="18"/>
 <text text-anchor="middle" x="176.78" y="-158.3" font-family="Times,serif" font-size="14.00">How To Prove It (Velleman)</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node3" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node3"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
+<g id="a_node3"><a xlink:href="/field/LinearAlgebra" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="507.78" cy="-90" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="507.78" y="-86.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>

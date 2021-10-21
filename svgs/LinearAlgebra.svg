@@ -12,7 +12,7 @@
 <!-- How To Prove It (Velleman) -->
 <g id="node1" class="node">
 <title>How To Prove It (Velleman)</title>
-<g id="a_node1"><a xlink:href="/books/HowToProveIt(Velleman)" xlink:title="How To Prove It (Velleman)" target="_parent">
+<g id="a_node1"><a xlink:href="/field/Proofs" xlink:title="How To Prove It (Velleman)" target="_parent">
 <ellipse fill="none" stroke="red" cx="719.49" cy="-162" rx="137.58" ry="18"/>
 <text text-anchor="middle" x="719.49" y="-158.3" font-family="Times,serif" font-size="14.00">How To Prove It (Velleman)</text>
 </a>
@@ -66,7 +66,7 @@
 <!-- Abstract Algebra (Dummit) -->
 <g id="node4" class="node">
 <title>Abstract Algebra (Dummit)</title>
-<g id="a_node4"><a xlink:href="/books/AbstractAlgebra(Dummit)" xlink:title="Abstract Algebra (Dummit)" target="_parent">
+<g id="a_node4"><a xlink:href="/field/BasicAbstractAlgebra" xlink:title="Abstract Algebra (Dummit)" target="_parent">
 <ellipse fill="none" stroke="red" cx="136.49" cy="-90" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="136.49" y="-86.3" font-family="Times,serif" font-size="14.00">Abstract Algebra (Dummit)</text>
 </a>
@@ -81,7 +81,7 @@
 <!-- Set Theory (Hrbacek) -->
 <g id="node5" class="node">
 <title>Set Theory (Hrbacek)</title>
-<g id="a_node5"><a xlink:href="/books/SetTheory(Hrbacek)" xlink:title="Set Theory (Hrbacek)" target="_parent">
+<g id="a_node5"><a xlink:href="/field/Foundations" xlink:title="Set Theory (Hrbacek)" target="_parent">
 <ellipse fill="none" stroke="red" cx="401.49" cy="-90" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="401.49" y="-86.3" font-family="Times,serif" font-size="14.00">Set Theory (Hrbacek)</text>
 </a>

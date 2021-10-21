@@ -2,12 +2,12 @@
 digraph G {
 node [target=_parent]
 "Abstract Algebra (Aluffi)"[URL="/books/AbstractAlgebra(Aluffi)"]
-"Abstract Algebra (Dummit)"[URL="/books/AbstractAlgebra(Dummit)"]
-"Algebraic Geometry (Cox)"[URL="/books/AlgebraicGeometry(Cox)"]
-"Category Theory (Awodey)"[URL="/books/CategoryTheory(Awodey)"]
+"Abstract Algebra (Dummit)"[URL="/field/BasicAbstractAlgebra(Dummit)"]
+"Algebraic Geometry (Cox)"[URL="/field/BasicAlgebraicGeometry"]
+"Category Theory (Awodey)"[URL="/field/CategoryTheory"]
 "Commutative Algebra (Atiyah)"[URL="/books/CommutativeAlgebra(Atiyah)"]
 "Homological Algebra (Rotman)"[URL="/books/HomologicalAlgebra(Rotman)"]
-"Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
+"Topology (Lee/Wilansky/Viro)"[URL="/field/Topology"]
 
     "Abstract Algebra (Dummit)" [color = "red"] 
     "Category Theory (Awodey)" [color = "red"] 

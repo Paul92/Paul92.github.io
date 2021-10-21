@@ -1,12 +1,11 @@
 #Linear Algebra
 digraph G {
 node [target=_parent]
-    "How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
+    "How To Prove It (Velleman)"[URL="/field/Proofs"]
     "Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
     "Advanced Linear Algebra (Roman)"[URL="/books/AdvancedLinearAlgebra(Roman)"]
-    "Abstract Algebra (Dummit)"[URL="/books/AbstractAlgebra(Dummit)"]
-    "Set Theory (Hrbacek)"[URL="/books/SetTheory(Hrbacek)"]
-    "Set Theory (Hrbacek)"[URL="/books/SetTheory(Hrbacek)"]
+    "Abstract Algebra (Dummit)"[URL="/field/BasicAbstractAlgebra"]
+    "Set Theory (Hrbacek)"[URL="/field/Foundations"]
     "Numerical Linear Algebra (Trefethen)"[URL="/books/NumericalLinearAlgebra(Trefethen)"]
 
     "How To Prove It (Velleman)" [color = "red"]

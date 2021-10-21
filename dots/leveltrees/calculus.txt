@@ -2,7 +2,7 @@
 digraph G {
 node [target=_parent]
 
-"Basic Mathematics (Lang)"[URL="/books/BasicMathematics(Lang)"]
+"Basic Mathematics (Lang)"[URL="/field/HighSchoolMath"]
 "First Course in Calculus (Lang)"[URL="/books/FirstCourseinCalculus(Lang)"]
 "Calculus in Several Variables (Lang)"[URL="/books/CalculusinSeveralVariables(Lang)"]
 "Differential Equations with Historical Notes (Simmons)"[URL="/books/DifferentialEquationswithHistoricalNotes(Simmons)"]

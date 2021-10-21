@@ -2,13 +2,13 @@
 digraph G {
 node [target=_parent]
 
-"Analysis on R (Bloch/Spivak)"[URL="/books/AnalysisonR(BlochSpivak)"]
-"Analysis on R^n (Duistermaat)"[URL="/books/AnalysisonRn(Duistermaat)"]
+"Analysis on R (Bloch/Spivak)"[URL="/field/BasicAnalysis"]
+"Analysis on R^n (Duistermaat)"[URL="/field/BasicAnalysis"]
 "Analysis Sequence of Simon"[URL="/books/AnalysisSequenceofSimon"]
 "Complex Analysis 2 (Freitag)"[URL="/books/ComplexAnalysis2(Freitag)"]
 "Complex Analysis (Freitag)"[URL="/books/ComplexAnalysis(Freitag)"]
 "Introductory Functional Analysis (Kreyszig)"[URL="/books/IntroductoryFunctionalAnalysis(Kreyszig)"]
-"Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+"Linear Algebra (Friedberg)"[URL="/field/LinearAlgebra"]
 "Measure Theory (Jones/Bartle)"[URL="/books/MeasureTheory(JonesBartle)"]
 "Real Analysis (Carothers)"[URL="/books/RealAnalysis(Carothers)"]
 

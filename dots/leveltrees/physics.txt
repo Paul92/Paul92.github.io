@@ -1,14 +1,14 @@
 #Physics
 digraph G {
 node [target=_parent]
-"A First Course in Calculus (Lang)"[URL="/books/AFirstCourseinCalculus(Lang)"]
-"Calculus on Several Variables (Lang)"[URL="/books/CalculusonSeveralVariables(Lang)"]
+"A First Course in Calculus (Lang)"[URL="/field/Calculus"]
+"Calculus on Several Variables (Lang)"[URL="/field/Calculus"]
 "Classical Mechanics (Taylor/Gregory)"[URL="/books/ClassicalMechanics(TaylorGregory)"]
-"Differential Geometry (Needham)"[URL="/books/DifferentialGeometry(Needham)"]
+"Differential Geometry (Needham)"[URL="/field/DifferentialGeometry"]
 "Electrodynamics (Wangsness/Ohanian)"[URL="/books/Electrodynamics(WangsnessOhanian)"]
 "General Relativity (Moore)"[URL="/books/GeneralRelativity(Moore)"]
 "Intro Physics (Moore/Morin)"[URL="/books/IntroPhysics(Moore/Morin)"]
-"Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+"Linear Algebra (Friedberg)"[URL="/field/LinearAlgebra"]
 "Modern Physics (Taylor)"[URL="/books/ModernPhysics(Taylor)"]
 "Quantum Mechanics (Shankar/McQuarrie)"[URL="/books/QuantumMechanics(ShankarMcQuarrie)"]
 "Sepcial Relativity (Morin)"[URL="/books/SepcialRelativity(Morin)"]

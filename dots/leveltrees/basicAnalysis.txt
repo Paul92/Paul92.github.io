@@ -2,9 +2,9 @@
 digraph G {
 node [target=_parent]
 
-"How To Prove It (Velleman)"[URL="/books/HowToProveIt(Velleman)"]
+"How To Prove It (Velleman)"[URL="/field/Proofs"]
 "Analysis on R (Bloch/Spivak)"[URL="/books/AnalysisonR(Bloch/Spivak)"]
-"Linear Algebra (Friedberg)"[URL="/books/LinearAlgebra(Friedberg)"]
+"Linear Algebra (Friedberg)"[URL="/field/LinearAlgebra"]
 "Analysis on R^n (Duistermaat)"[URL="/books/AnalysisonRn(Duistermaat)"]
 
 

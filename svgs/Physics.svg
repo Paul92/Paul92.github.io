@@ -12,7 +12,7 @@
 <!-- A First Course in Calculus (Lang) -->
 <g id="node1" class="node">
 <title>A First Course in Calculus (Lang)</title>
-<g id="a_node1"><a xlink:href="/books/AFirstCourseinCalculus(Lang)" xlink:title="A First Course in Calculus (Lang)" target="_parent">
+<g id="a_node1"><a xlink:href="/field/Calculus" xlink:title="A First Course in Calculus (Lang)" target="_parent">
 <ellipse fill="none" stroke="red" cx="828.68" cy="-378" rx="165.17" ry="18"/>
 <text text-anchor="middle" x="828.68" y="-374.3" font-family="Times,serif" font-size="14.00">A First Course in Calculus (Lang)</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Calculus on Several Variables (Lang) -->
 <g id="node2" class="node">
 <title>Calculus on Several Variables (Lang)</title>
-<g id="a_node2"><a xlink:href="/books/CalculusonSeveralVariables(Lang)" xlink:title="Calculus on Several Variables (Lang)" target="_parent">
+<g id="a_node2"><a xlink:href="/field/Calculus" xlink:title="Calculus on Several Variables (Lang)" target="_parent">
 <ellipse fill="none" stroke="red" cx="180.68" cy="-306" rx="180.87" ry="18"/>
 <text text-anchor="middle" x="180.68" y="-302.3" font-family="Times,serif" font-size="14.00">Calculus on Several Variables (Lang)</text>
 </a>
@@ -75,7 +75,7 @@
 <!-- Differential Geometry (Needham) -->
 <g id="node4" class="node">
 <title>Differential Geometry (Needham)</title>
-<g id="a_node4"><a xlink:href="/books/DifferentialGeometry(Needham)" xlink:title="Differential Geometry (Needham)" target="_parent">
+<g id="a_node4"><a xlink:href="/field/DifferentialGeometry" xlink:title="Differential Geometry (Needham)" target="_parent">
 <ellipse fill="none" stroke="red" cx="1166.68" cy="-234" rx="167.07" ry="18"/>
 <text text-anchor="middle" x="1166.68" y="-230.3" font-family="Times,serif" font-size="14.00">Differential Geometry (Needham)</text>
 </a>
@@ -144,7 +144,7 @@
 <!-- Linear Algebra (Friedberg) -->
 <g id="node8" class="node">
 <title>Linear Algebra (Friedberg)</title>
-<g id="a_node8"><a xlink:href="/books/LinearAlgebra(Friedberg)" xlink:title="Linear Algebra (Friedberg)" target="_parent">
+<g id="a_node8"><a xlink:href="/field/LinearAlgebra" xlink:title="Linear Algebra (Friedberg)" target="_parent">
 <ellipse fill="none" stroke="red" cx="515.68" cy="-306" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="515.68" y="-302.3" font-family="Times,serif" font-size="14.00">Linear Algebra (Friedberg)</text>
 </a>

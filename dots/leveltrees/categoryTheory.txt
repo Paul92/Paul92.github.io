@@ -1,14 +1,14 @@
 #Category Theory
 digraph G {
 node [target=_parent]
-    "Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
-    "A Book on Asbtract Algebra (Pinter)"[URL="/books/ABookonAsbtractAlgebra(Pinter)"]
+    "Topology (Lee/Wilansky/Viro)"[URL="/field/Topology"]
+    "A Book on Abstract Algebra (Pinter)"[URL="/field/BasicAbstractAlgebra"]
     "Category Theory (Awodey)"[URL="/books/CategoryTheory(Awodey)"]
     "Topos Theory (Goldblatt)"[URL="/books/ToposTheory(Goldblatt)"]
 
     "Topology (Lee/Wilansky/Viro)" [color = "red"] 
     "A Book on Asbtract Algebra (Pinter)" [color = "red"]
     "Topology (Lee/Wilansky/Viro)" -> "Category Theory (Awodey)"
-    "A Book on Asbtract Algebra (Pinter)" -> "Category Theory (Awodey)"
+    "A Book on Abstract Algebra (Pinter)" -> "Category Theory (Awodey)"
     "Category Theory (Awodey)" -> "Topos Theory (Goldblatt)"
 }

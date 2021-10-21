@@ -1,9 +1,9 @@
 #Topology
 digraph G {
 node [target=_parent]
-    "Real Analysis (Carothers)"[URL="/books/RealAnalysis(Carothers)"]
+    "Real Analysis (Carothers)"[URL="/fields/AdvancedAnalysis"]
     "Topology (Lee/Wilansky/Viro)"[URL="/books/Topology(LeeWilanskyViro)"]
-    "A Book on Abstract algebra (Pinter)"[URL="/books/ABookonAbstractalgebra(Pinter)"]
+    "A Book on Abstract algebra (Pinter)"[URL="/field/BasicAbstractAlgebra"]
     "Algebraic Topology (Rotman)"[URL="/books/AlgebraicTopology(Rotman)"]
 
     "Real Analysis (Carothers)" -> "Topology (Lee/Wilansky/Viro)"
