@@ -5,8 +5,9 @@ title: Openstax
 
 <img title="a title" alt="Alt text" src="/books/covers/openstax_elementary_algebra.png">
 
-![Alt text](covers/openstax_elementary_algebra.png "a title")
+![Alt text](/books/covers/openstax_elementary_algebra.png "a title")
 
+$$ \sqrt{x+2} $$
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum leo
