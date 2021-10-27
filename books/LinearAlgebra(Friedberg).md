@@ -123,7 +123,7 @@ This section is not essential for the rest of the book and is purely motivationa
 35 M  
 
 ## Section 1.7: Maximal Linearly Independent Subsets
-I suggest skipping this section for anybody not in the M track.
+I suggest skipping this section for anybody not in the M track.  
 1 M  
 2 M  
 3 M  
