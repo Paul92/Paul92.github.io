@@ -9,13 +9,6 @@ Linear algebra is the subject that deals with linearity. This means lines, plane
 # Problem Selection
 Note: this is for fourth edition.
 
-## Different tracks
-C: For those interested in computational problems  
-M: For those interested in pure math  
-P: For those interested in physics  
-A: For those interested in applications other than physics  
-F: For those interested in going through the material fast, this is the minimum selection
-
 ## Chapter 1: Vector Spaces
 ### Section 1.1: Introduction
 This section is not essential for the rest of the book and is purely motivational. It can safely be skipped for those familiar to vectors in say physics or even high school.  
