@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Map
-full-width: true
+title: Tracks
 ---
 
 
