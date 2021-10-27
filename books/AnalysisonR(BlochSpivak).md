@@ -18,7 +18,7 @@ For analysis on R, we have chosen to work with two books, both Bloch and Spivak.
 7 F  
 8 M  
 Extra Problem (M): Show the three Peano axioms are independent, that is, neither of the two implies the other. Do this by creating a structure satisfying two axioms and not the other.  
-Extra Problem (M): Construct the exponentiation $n^m$ and prove its basic properties.  
+Extra Problem (M): Construct the exponentiation $$n^m$$ and prove its basic properties.  
 
 ### Bloch Section 1.3: Constructing the Integers
 2 F  
@@ -109,7 +109,7 @@ Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no
 24 M  
 25 M  
 
-Remark: Spivak liberally uses square roots, which we have not justified at this point. So add another axiom (to be proven by Bloch soon) that for any $y\geq 0$, there is some $x\geq 0$ such that $x^2 = y$. Prove  that $x$ is unique. We denote $x = \sqrt{y}$. Prove any property you use.
+Remark: Spivak liberally uses square roots, which we have not justified at this point. So add another axiom (to be proven by Bloch soon) that for any $$y\geq 0$$, there is some $$x\geq 0$$ such that $$x^2 = y$$. Prove  that $$x$$ is unique. We denote $$x = \sqrt{y}$$. Prove any property you use.
 
 ### Bloch 2.4: Finding the Natural Numbers, the Integers and the Rational Numbers in the Real Numbers
 1 F  
@@ -139,7 +139,7 @@ Remark: Spivak liberally uses square roots, which we have not justified at this 
 17 F  
 18 F  
 
-Remark: At least in this part, do not use the ... notation for sums. Always use summation notation which we can define by recursion as $\sum_{n=a}^a f(n) = f(a)$ and $\sum_{n=a}^{b+1} f(n) = f(b+1) + \sum_{n=a}^b f(n)$ for $a<b$. Prove any properties you use.
+Remark: At least in this part, do not use the ... notation for sums. Always use summation notation which we can define by recursion as $$\sum_{n=a}^a f(n) = f(a)$$ and $$\sum_{n=a}^{b+1} f(n) = f(b+1) + \sum_{n=a}^b f(n)$$ for $$a<b$$. Prove any properties you use.
 
 ### Spivak 2: Numbers of Various Sorts
 3 F  
