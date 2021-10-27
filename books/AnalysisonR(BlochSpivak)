@@ -34,7 +34,7 @@ From this point on, do not use the explicit definition of integers, but solely T
 11 F  
 
 
-## Bloch Section 1.4: Axioms for the Integers
+### Bloch Section 1.4: Axioms for the Integers
 Bloch leaves this section as optional, but I do recommend it
 1 F  
 2 F  
@@ -45,7 +45,7 @@ Bloch leaves this section as optional, but I do recommend it
 7 M  
 8 F  
 
-## Bloch Section 1.5: Constructing the Rational Numbers
+### Bloch Section 1.5: Constructing the Rational Numbers
 1 F  
 2 F  
 3 F  
@@ -67,13 +67,13 @@ Prove:
 5) Show that for any nonzero x in Q, exactly one of x, -x is in P.  
 Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no cases.  
 
-## Bloch Section 1.6: Dedekind Cuts
+### Bloch Section 1.6: Dedekind Cuts
 1 F  
 2 F  
 3 F  
 4 F  
 
-## Bloch Section 1.7: Constructing the Real Numbers
+### Bloch Section 1.7: Constructing the Real Numbers
 1 F  
 2 F  
 3 F  
@@ -81,4 +81,132 @@ Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no
 5 F  
 6 F  
 7 F  
+
+## Part 2: Properties of the Real Numbers
+### Bloch 2.3: Algebraic Properties of the Real Numbers
+1 F  
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 F  
+8 F  
+9 F  
+11 F  
+12 F  
+13 F  
+
+### Spivak 1: Basic Properties of Numbers
+13 F  
+17 F  
+18 F  
+19 F  
+20 F  
+21 F  
+22 F  
+23 F  
+24 M  
+25 M  
+
+Remark: Spivak liberally uses square roots, which we have not justified at this point. So add another axiom (to be proven by Bloch soon) that for any $y\geq 0$, there is some $x\geq 0$ such that $x^2 = y$. Prove  that $x$ is unique. We denote $x = \sqrt{y}$. Prove any property you use.
+
+### Bloch 2.4: Finding the Natural Numbers, the Integers and the Rational Numbers in the Real Numbers
+1 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 F  
+8 F  
+9 F  
+10 F  
+
+### Bloch 2.5: Induction and Recursion in Practice
+1 F  
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 F  
+8 F  
+9 F  
+11 F  
+12 F  
+13 F  
+16 F  
+17 F  
+18 F  
+
+Remark: At least in this part, do not use the ... notation for sums. Always use summation notation which we can define by recursion as $\sum_{n=a}^a f(n) = f(a)$ and $\sum_{n=a}^{b+1} f(n) = f(b+1) + \sum_{n=a}^b f(n)$ for $a<b$. Prove any properties you use.
+
+### Spivak 2: Numbers of Various Sorts
+3 F  
+8 F  
+9 F  
+13 F  
+17 M  
+18a M  
+21 F (One proof is sufficient)  
+22 M  
+23 F  
+
+### Bloch 2.6: The Least Upper Bound Property and Its Consequences
+1 F  
+2 F  
+3 F 
+4 F  
+5 F  
+6 F  
+7 F  
+8 F  
+9 F  
+10 F  
+12 F  
+13 F  
+14 F  
+15 F  
+16 F  
+17 M  
+18 F   
+
+Remark: Bloch throughout his book often puts many dual exercises, like (2) and (1) are dual and their proofs are of course similar. Feel free to do only one part.
+
+### Spivak 3: Functions
+6 M  
+7 M  
+9 M  
+12 F  
+13 F  
+14 F  
+15 F  
+16 M  
+17 M  
+19 M  
+
+### Bloch 2.7: Uniqueness of the Real Numbers
+1 M  
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+
+### Spivak 4: Graphs
+2 F  
+9 F  
+20 F  
+
+### Bloch 2.8: Decimal Expansion of Real Numbers
+I suggest skipping this section for now since it is a ton easier with series. We will revisit it later.
+
+
+
+
+
+
+
+
+
 
