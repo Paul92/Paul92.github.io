@@ -83,7 +83,7 @@ Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no
 7 F  
 
 ## Part 2: Properties of the Real Numbers
-### Bloch 2.3: Algebraic Properties of the Real Numbers
+[### Bloch 2.3: Algebraic Properties of the Real Numbers](https://paul92.github.io/books/bloch/section2)
 1 F  
 2 F  
 3 F  
