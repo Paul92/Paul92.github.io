@@ -1,0 +1,84 @@
+---
+layout: page
+title: Analysis on R
+---
+
+# Introduction
+For analysis on R, we have chosen to work with two books, both Bloch and Spivak. They complement eachother very well. Spivak has excellent and beautiful exercises, but doesn't treat its theory as rigorous as he could. Bloch is the opposite. Everything is done in the theory, from constructing the reals from scratch to constructing the usual transcendental functions log, sin, cos and others. But the exercises are a bit light and probably too easy.
+
+# Problem list
+## Part I: Constructing the real numbers
+### Bloch Section 1.2: Axioms for the Natural Numbers
+1 F  
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 F  
+8 M  
+Extra Problem (M): Show the three Peano axioms are independent, that is, neither of the two implies the other. Do this by creating a structure satisfying two axioms and not the other.  
+Extra Problem (M): Construct the exponentiation $n^m$ and prove its basic properties.  
+
+### Bloch Section 1.3: Constructing the Integers
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 F  
+From this point on, do not use the explicit definition of integers, but solely Theorems 1.3.5 and 1.3.7  
+8 F  
+9 F  
+10 F  
+11 F  
+
+
+## Bloch Section 1.4: Axioms for the Integers
+Bloch leaves this section as optional, but I do recommend it
+1 F  
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 M  
+8 F  
+
+## Bloch Section 1.5: Constructing the Rational Numbers
+1 F  
+2 F  
+3 F  
+4 F  
+5 F  
+From this point on, do not use the explicit definition of rationals, but solely Theorems 1.5.5 and 1.5.6  
+6 F  
+7 F  
+8 F  
+9 F  
+
+Remarks:  Since the definition of < is rather awkward, any proof of it must include 4 cases. This is obviously very annoying. You can simplify a lot by following the following approach:  
+Define P as those [(a,b)] in Q such that a>0 and b>0, or a<0 and b<0  
+Prove:   
+1) if [(a,b)] = [(c,d)] then [(a,b)] in P iff [(c,d)] in P  
+2) Define x<y if and only if y-x in P.  
+3) Show x<y if and only if Definition 1.5.3 is satisfies (this simplifies the proof of < being well-defined)  
+4) Show that if x,y in P, then x+y and xy in P  
+5) Show that for any nonzero x in Q, exactly one of x, -x is in P.  
+Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no cases.  
+
+## Bloch Section 1.6: Dedekind Cuts
+1 F  
+2 F  
+3 F  
+4 F  
+
+## Bloch Section 1.7: Constructing the Real Numbers
+1 F  
+2 F  
+3 F  
+4 F  
+5 F  
+6 F  
+7 F  
+
