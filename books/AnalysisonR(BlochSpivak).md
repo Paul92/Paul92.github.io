@@ -12,7 +12,7 @@ For analysis on R, we have chosen to work with two books, both Bloch and Spivak.
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -23,7 +23,7 @@ Extra Problem (M): Construct the exponentiation $n^m$ and prove its basic proper
 ### Bloch Section 1.3: Constructing the Integers
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -39,7 +39,7 @@ Bloch leaves this section as optional, but I do recommend it
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 M  
@@ -49,7 +49,7 @@ Bloch leaves this section as optional, but I do recommend it
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 From this point on, do not use the explicit definition of rationals, but solely Theorems 1.5.5 and 1.5.6  
 6 F  
@@ -71,13 +71,13 @@ Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 
 ### Bloch Section 1.7: Constructing the Real Numbers
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -87,7 +87,7 @@ Using the set P, the proofs of 1.5.5, case 10, 11, 12 and 13 need essentially no
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -114,7 +114,7 @@ Remark: Spivak liberally uses square roots, which we have not justified at this 
 ### Bloch 2.4: Finding the Natural Numbers, the Integers and the Rational Numbers in the Real Numbers
 1 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -126,7 +126,7 @@ Remark: Spivak liberally uses square roots, which we have not justified at this 
 1 F  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -156,7 +156,7 @@ Remark: At least in this part, do not use the ... notation for sums. Always use 
 1 F  
 2 F  
 3 F 
-4 F  
+4 F   
 5 F  
 6 F  
 7 F  
@@ -189,7 +189,7 @@ Remark: Bloch throughout his book often puts many dual exercises, like (2) and (
 1 M  
 2 F  
 3 F  
-4 F  
+4 F   
 5 F  
 6 F  
 
@@ -217,7 +217,7 @@ I suggest skipping this section for now since it is a ton easier with series. We
 19 F  
 21b F  
 22 F  
-24 M
+24 M  
 25 F  
 29 F  
 32 F  
