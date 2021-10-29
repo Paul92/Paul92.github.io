@@ -48,8 +48,16 @@ based solely on the rules of the logical system. If the logical system is
 logical system is **complete**, then we can prove any semantic consequence.
 In other words, completeness ensures that we can prove everything, and
 soundness ensures that the proofs are *valid*. All the presented logical
-systems are both sound and complete.
+systems are both sound and complete and therefore equivalent.
 
-
-
+The choice of which logical system to choose for a specific problem is a matter
+of preference and convenience. Broadly speaking, trees are a graphical view
+that makes it easier to reason about proving - this is the reason why the
+proofs for the soundness and completeness of the other systems are done by
+showing equivalence to trees. Propositional calculus introduces the notion of
+axioms, which is very close to the axiomatic approach used in mathematics.
+Natural deduction on the other hand, is very close to our intuition when
+writing proofs. Finally, sequent calculus allows easy maipulation of multiple
+conclusions. Each of the logical systems has its strengths and weaknesses, but
+they are all equivalent.
 
