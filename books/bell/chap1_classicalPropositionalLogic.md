@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Logical Options
 subtitle: Chapter 1: Classical Propositional Logic
 ---
