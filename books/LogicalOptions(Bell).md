@@ -20,7 +20,7 @@ of the mathematics, establishing what can be done and cannot be done.
 a tour of various logics, building an understanding of the various possible
 logical systems, along with their capabilities and limitations.
 
-### Bell Chapter 1: Classical Propositional Logic
+### [Bell Chapter 1: Classical Propositional Logic](https://paul92.github.io/books/bell/chap1_classicalPropositionalLogic)
 
 #### 1.1: Introductory Remarks
 1.1.1
