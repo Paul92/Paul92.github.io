@@ -20,7 +20,7 @@ of the mathematics, establishing what can be done and cannot be done.
 a tour of various logics, building an understanding of the various possible
 logical systems, along with their capabilities and limitations.
 
-### [Bell Chapter 1: Classical Propositional Logic](https://paul92.github.io/books/bell/chap1_classicalPropositionalLogic)
+### [Chapter 1: Classical Propositional Logic](https://paul92.github.io/books/bell/chap1_classicalPropositionalLogic)
 
 #### 1.1: Introductory Remarks
 1.1.1
@@ -44,3 +44,24 @@ logical systems, along with their capabilities and limitations.
 1.5.3
 1.5.4
 1.5.5
+
+### [Chapter 2: Classical Predicate Logic](https://paul92.github.io/books/bell/chap2_classicalPredicateLogic)
+
+#### 2.2 Tree Rules for Classical Predicate Logic
+2.2.1 (Trees = fun)
+
+#### 2.3 Predicate Languages and Their Intepretations
+2.3.1
+
+#### 2.4 Set Theory
+nothing (= all trivial stuff)
+
+#### 2.5 Interpretations of Languages for Predicate Logic
+2.5.1
+
+#### 2.6 Validity, Satisfiability, and Models
+2.6.1
+
+#### 2.7 Correctness and Adequacy
+2.7.1
+2.7.2
