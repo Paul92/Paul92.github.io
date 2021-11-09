@@ -37,20 +37,30 @@ the relationship between statements that contain implications. Introducing
 a higher level, which allows reasoning about statements, solves all these
 ambiguities.
 
-Chapter 1 introduces four logical systems: trees, propositional calculus,
-natural deduction and sequent calculus. Each of them is a set of tools for
-building **proofs** or **derivations**, i.e. they provide a set of rules that
+Chapter 1 introduces four techniques for proving arguments in propositional
+logic: trees, propositional calculus, natural deduction and sequent calculus.
+Each of them is a set of tools for building **proofs** or **derivations**, i.e.
+they provide a set of rules that
 allow us to move from one statement to another in a way that preserves the
 validity of the argument. We denote by $$S \models P$$ if there is a proof
-from S to P in some logical system. Note that this is a **formal consequence**,
-based solely on the rules of the logical system. If the logical system is
-**sound**, then the existence of a proof implies semantic consequence. If the
-logical system is **complete**, then we can prove any semantic consequence.
+from S to P by some method. Note that this is a **formal consequence**,
+based solely on the rules of the proof method. If the proof method is
+**sound**, then the existence of a proof implies semantic consequence. If
+it is **complete**, then we can prove any semantic consequence.
 In other words, completeness ensures that we can prove everything, and
-soundness ensures that the proofs are *valid*. All the presented logical
-systems are both sound and complete and therefore equivalent.
+soundness ensures that the proofs are *valid*. All the presented proof
+methods are both sound and complete and therefore equivalent.
 
-The choice of which logical system to choose for a specific problem is a matter
+When using trees, a proof starts from the premises and the negated
+conclusion, and validity is shown if all the branches of the tree are closed,
+i.e. they contain a contradiction. Of course, this is equivalent to starting
+from the premises and the affimative conclusion and making sure the entire tree
+is open (i.e. there is no branch that contains a contradiction). The advantage
+of the former method is that it allows to prune a branch as soon as
+a contradiction is reached, while the latter approach would require to fully
+develop the tree, which can get very large.
+
+The choice of which proof method to choose for a specific problem is a matter
 of preference and convenience. Broadly speaking, trees are a graphical view
 that makes it easier to reason about proving - this is the reason why the
 proofs for the soundness and completeness of the other systems are done by
