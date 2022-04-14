@@ -75,23 +75,23 @@ title: How To Prove It - Velleman
 
 ## Chapter 3: Proofs
 ## 3.1 Proof Strategies
-1 
-3 
-5 
-8 
-14 
-15 
-16 
-17 
+1  
+3  
+5   
+8   
+14   
+15   
+16   
+17   
 
 3.2. Proofs Involving Negations and Conditionals 
-1 
-2 
-5.
-6.
-11.
-12.
-13.
+1  
+2   
+5   
+6   
+11  
+12  
+13  
 
 3.3 Proofs Involving Quantifiers
 1
