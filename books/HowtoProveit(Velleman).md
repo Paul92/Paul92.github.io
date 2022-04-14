@@ -73,8 +73,8 @@ title: How To Prove It - Velleman
 13 F  
 15 F  
 
-## Chapter 3: Proofs
-### Proof Strategies
+### Chapter 3: Proofs
+#### Proof Strategies
 1
 3
 5
