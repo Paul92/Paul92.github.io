@@ -73,8 +73,8 @@ title: How To Prove It - Velleman
 13 F  
 15 F  
 
-## Chapter 3: Proofs
-## 3.1 Proof Strategies
+## Chapter 3: Proofs 
+# 3.1 Proof Strategies
 1  
 3  
 5   
@@ -93,262 +93,262 @@ title: How To Prove It - Velleman
 12  
 13  
 
-3.3 Proofs Involving Quantifiers
-1
-2
-5
-7
-15
-18
-19
-20
-21
-22
-23
-24
+3.3 Proofs Involving Quantifiers  
+1  
+2  
+5   
+7  
+15  
+18  
+19   
+20    
+21    
+22   
+23     
+24    
 
-3.4 Proofs Involving Conjunctions and Biconditionals
-1
-2
-8
-10
-11
-12
-26
-27
+3.4 Proofs Involving Conjunctions and Biconditionals  
+1   
+2   
+8   
+10  
+11  
+12  
+26  
+27  
 
-3.5 Proofs Involving Disjunctions
-1
-5
-8
-10
-13
-27
-28
-29
-31
+3.5 Proofs Involving Disjunctions  
+1  
+5  
+8  
+10  
+13  
+27  
+28  
+29  
+31  
 
-3.6 Existence and Uniqueness Proofs
-1
-6
-10
-13
+3.6 Existence and Uniqueness Proofs   
+1  
+6  
+10   
+13   
 
-3.7 More Examples of Proofs
-6
-10
+3.7 More Examples of Proofs  
+6  
+10  
 
-## Chapter 4: Relations
-### Ordered Pairs and Cartesian Products
-3
-5
-6
-7 (no need to prove)
-8
-12
-13
-15
+## Chapter 4: Relations  
+### Ordered Pairs and Cartesian Products   
+3   
+5   
+6   
+7 (no need to prove)   
+8    
+12     
+13     
+15   
 
-4.2 Relations
-5
-7
-9
-10
-11
-12
-13
+4.2 Relations   
+5   
+7   
+9   
+10   
+11   
+12   
+13   
 
-4.3 More about Relations
-3
-4
-7
-8
-9
-10
-11
-12
-13
-17
-19
-22
-24
+4.3 More about Relations   
+3   
+4   
+7   
+8   
+9    
+10     
+11   
+12   
+13    
+17     
+19    
+22    
+24    
 
-4.4 Ordering Relations
-1
-3
-4
-6
-14
-17
-19
-23
+4.4 Ordering Relations   
+1     
+3    
+4          
+6        
+14       
+17        
+19        
+23      
 
-4.5 Equivalence Relations
-1
-2
-8
-11
-12
-13
-14
+4.5 Equivalence Relations    
+1      
+2         
+8         
+11       
+12        
+13          
+14      
 
-## Chapter 5: Functions
-### Functions
-1ab
-3
-7ab
-8
-9
-12
-20
-21
+## Chapter 5: Functions     
+### Functions     
+1ab         
+3        
+7ab   
+8     
+9          
+12       
+20      
+21         
 
-5.2: One-to-One and Onto
-5
-6
-7
-10
-11
-13
+5.2: One-to-One and Onto    
+5 F   
+6 F     
+7 F    
+10 F      
+11 F          
+13 F      
 
-5.3: Inverses of Functions
-3
-8
-9
-11
-18
+5.3: Inverses of Functions      
+3  F    
+8  F        
+9  F     
+11 F    
+18 F        
 
-5.4: Closures
-1
-5
-11
-12
+5.4: Closures     
+1 F     
+5 F      
+11 F       
+12 F      
 
 5.5: Images and Inverse Images: A Research Project
-1
-2
-3
-4
-5
-6
-7 
+1 F   
+2 F   
+3 F     
+4 F    
+5 F    
+6 F    
+7 F  
 
-## Chapter 6 Mathematical Induction
-### Proof by Mathematical Induction
-1
-4
-7
-9a
-15
-16
-19
-20
+## Chapter 6 Mathematical Induction  
+### Proof by Mathematical Induction     
+1 F    
+4 F   
+7 F        
+9.(a) F      
+15 F    
+16 F   
+19 F      
+20 F    
 
-6.2 More Examples
-6
-17
-18
+6.2 More Examples   
+6 F    
+17 F    
+18 F    
 
-6.3 Recursion
-1
-5
-7
-16
-18
-19
+6.3 Recursion   
+1 F    
+5 F     
+7 F    
+16 F      
+18 F      
+19 F    
 
-6.4 Strong Induction
-2
-3
-11
+6.4 Strong Induction    
+2 F   
+3 F       
+11 F     
 
-6.5 Closures again
-1
-2
-4
+6.5 Closures again     
+1 F      
+2 F      
+4 F   
 
-## Chapter 7: Number Theory
-### Greatest common Divisors
-2a
-5
-7
-11
-12
+## Chapter 7: Number Theory  
+### Greatest common Divisors   
+2(a) F    
+5 F    
+7 F   
+11 F   
+12 F  
 
-2: Prime Factorization
-4
-5
-6
-9
-11
-13
+2: Prime Factorization  
+4 F      
+5 F    
+6 F    
+9 F   
+11 F    
+13 F     
 
-3: Modular Arithmetic
-1
-2
-3
-4
-5
-6
-7
-8
-10
-17
-18
-19
-20b
+3: Modular Arithmetic  
+1 F    
+2 F      
+3 F     
+4 F     
+5 F     
+6 F      
+7 F      
+8 F      
+10 F    
+17 F  
+18 F   
+19 F    
+20(b) F   
 
-4: Euler's Theorem
-1
-2
-5
-6
-7
-10
-11
-15
+4: Euler's Theorem   
+1 F     
+2 F   
+5 F    
+6 F       
+7 F    
+10 F  
+11 F     
+15 F     
 
-5: Public-Key Cryptography
-4
-6
-7 
+5: Public-Key Cryptography   
+4 F   
+6 F     
+7 F    
 
-## Chapter 8: Infinite Sets
-### Equinumerous Sets
-1
-2
-3abc
-6
-7
-8
-9
-10
-11
-14
-15
-17
-21
-22a
-23abc
-24ab
-26
+## Chapter 8: Infinite Sets   
+### Equinumerous Sets   
+1 F  
+2 F  
+3(a)(b)(c) F    
+6 F   
+7 F      
+8 F  
+9 F    
+10 F      
+11 F   
+14 F    
+15 F    
+17 F     
+21 F   
+22(a) F  
+23(a)(b)(c) F   
+24(a)(b) F       
+26 F      
 
-8.2: Countable and Uncountable Sets
-1
-3
-4
-5
-6
-12
+8.2: Countable and Uncountable Sets  
+1 F   
+3 F  
+4 F  
+5 F  
+6 F  
+12 F  
 
-8.3: The Cantor-Schroder-Bernstein Theorem
-1
-2
-3
-4
-5
-6
-7
-12b (don't use (a), but use that R ~ {yes, no}^N and apply properties)
-14ab (similar as above, use properties you know, not an explicit bijection) 
+8.3: The Cantor-Schroder-Bernstein Theorem   
+1 F    
+2 F     
+3 F     
+4 F   
+5 F     
+6 F  
+7 F     
+12(b) F (note: don't use (a) but use that R ~ {yes, no}^N and apply properties)          
+14(a)(b) F (similar as above, use properties you know, not an explicit bijection)             
 
