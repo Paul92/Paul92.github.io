@@ -74,7 +74,7 @@ title: How To Prove It - Velleman
 15 F  
 
 ## Chapter 3: Proofs
-3.1. Proof Strategies
+# 3.1 Proof Strategies
 1.
 3.
 5.
@@ -85,13 +85,13 @@ title: How To Prove It - Velleman
 17.
 
 3.2. Proofs Involving Negations and Conditionals
-1.
-2.
-5.
-6.
-11.
-12.
-13.
+1
+2
+5
+6
+11
+12
+13
 
 3.3 Proofs Involving Quantifiers
 1
