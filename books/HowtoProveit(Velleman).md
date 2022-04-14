@@ -74,7 +74,7 @@ title: How To Prove It - Velleman
 15 F  
 
 ## Chapter 3: Proofs
-# 3.1 Proof Strategies
+## 3.1 Proof Strategies
 1.
 3.
 5.
