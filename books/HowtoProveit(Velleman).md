@@ -73,135 +73,135 @@ title: How To Prove It - Velleman
 13 F  
 15 F  
 
-## Chapter 3: Proofs 
-# 3.1 Proof Strategies
-1  
-3  
-5   
-8   
-14   
-15   
-16   
-17   
+## Chapter 3: Proofs   
+# 3.1 Proof Strategies    
+1 F  
+3 F    
+5 F    
+8 F     
+14 F      
+15 F     
+16 F      
+17 F       
 
-3.2. Proofs Involving Negations and Conditionals 
-1  
-2   
-5   
-6   
-11  
-12  
-13  
+3.2. Proofs Involving Negations and Conditionals    
+1 F    
+2 F    
+5 F    
+6 F    
+11 F    
+12 F      
+13 F   
 
-3.3 Proofs Involving Quantifiers  
-1  
-2  
-5   
-7  
-15  
-18  
-19   
-20    
-21    
-22   
-23     
-24    
+3.3 Proofs Involving Quantifiers     
+1 F  
+2 F    
+5 F     
+7 F   
+15 F   
+18 F    
+19 F     
+20 F        
+21 F       
+22 F       
+23 F         
+24 F          
 
-3.4 Proofs Involving Conjunctions and Biconditionals  
-1   
-2   
-8   
-10  
-11  
-12  
-26  
-27  
+3.4 Proofs Involving Conjunctions and Biconditionals    
+1 F   
+2 F   
+8 F           
+10 F     
+11 F      
+12 F      
+26 F     
+27 F        
 
-3.5 Proofs Involving Disjunctions  
-1  
-5  
-8  
-10  
-13  
-27  
-28  
-29  
-31  
+3.5 Proofs Involving Disjunctions     
+1 F   
+5 F      
+8 F      
+10 F      
+13 F        
+27 F      
+28 F        
+29 F        
+31 F        
 
-3.6 Existence and Uniqueness Proofs   
-1  
-6  
-10   
-13   
+3.6 Existence and Uniqueness Proofs       
+1 F       
+6 F        
+10 F         
+13 F      
 
-3.7 More Examples of Proofs  
-6  
-10  
+3.7 More Examples of Proofs   
+6 F       
+10 F    
 
-## Chapter 4: Relations  
-### Ordered Pairs and Cartesian Products   
-3   
-5   
-6   
-7 (no need to prove)   
-8    
-12     
-13     
-15   
+## Chapter 4: Relations      
+## 4.1 Ordered Pairs and Cartesian Products      
+3 F     
+5 F      
+6 F     
+7 F (no need to prove)           
+8 F          
+12 F        
+13 F           
+15 F         
 
-4.2 Relations   
-5   
-7   
-9   
-10   
-11   
-12   
-13   
+4.2 Relations     
+5 F      
+7 F         
+9 F        
+10 F         
+11 F        
+12 F        
+13 F       
 
-4.3 More about Relations   
-3   
-4   
-7   
-8   
-9    
-10     
-11   
-12   
-13    
-17     
-19    
-22    
-24    
+4.3 More about Relations     
+3 F    
+4 F       
+7 F         
+8 F         
+9 F        
+10 F       
+11 F        
+12 F       
+13 F           
+17 F          
+19 F         
+22 F         
+24 F          
 
-4.4 Ordering Relations   
-1     
-3    
-4          
-6        
-14       
-17        
-19        
-23      
+4.4 Ordering Relations            
+1 F           
+3 F           
+4 F                
+6 F                
+14 F              
+17 F              
+19 F               
+23 F             
 
-4.5 Equivalence Relations    
-1      
-2         
-8         
-11       
-12        
-13          
-14      
+4.5 Equivalence Relations          
+1 F           
+2 F             
+8 F               
+11 F               
+12 F               
+13 F                  
+14 F          
 
 ## Chapter 5: Functions     
-### Functions     
-1ab         
-3        
-7ab   
-8     
-9          
-12       
-20      
-21         
+## 5.1 Functions     
+1(a)(b) F              
+3 F            
+7(a)(b) F        
+8 F            
+9 F              
+12 F          
+20 F        
+21 F                   
 
 5.2: One-to-One and Onto    
 5 F   
